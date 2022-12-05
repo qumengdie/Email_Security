@@ -1,0 +1,940 @@
+Rank,University
+1,Tsinghua University
+2,Peking University
+3,Zhejiang University
+4,Shanghai Jiao Tong University
+5,Fudan University
+6,University of Science and Technology of China
+7,Nanjing University
+8,Harbin Institute of Technology
+9,Xiamen University
+10,Shandong University
+11,Tongji University
+12,Wuhan University
+13,Renmin University of China
+14,Beihang University
+15,Xi'an Jiaotong University
+16,Beijing Normal University
+17,Southeast University
+18,Beijing Institute of Technology
+19,Sun Yat-Sen University
+20,Sichuan University
+21,East China Normal University
+22,Hefei University of Technology
+23,Huazhong University of Science and Technology
+24,Nankai University
+25,Chongqing University
+26,South China University of Technology
+27,Tianjin University
+28,Central South University
+29,University of Electronic Science and Technology of China
+30,Lanzhou University
+31,Northwestern Polytechnical University
+32,Dalian University of Technology
+33,China University of Petroleum
+34,China Agricultural University
+35,Jilin University
+36,Shenzhen University
+37,Central China Normal University
+38,Shanghai University
+39,Xidian University
+40,South China Normal University
+41,Beijing Jiaotong University
+42,Soochow University
+43,University of the Chinese Academy of Sciences
+44,Zhengzhou University
+45,East China University of Science and Technology
+46,Capital Medical University
+47,Southwest Jiaotong University
+48,Beijing University of Posts and Telecommunications
+49,Wuhan University of Technology
+50,University of Science and Technology Beijing
+51,Zhejiang Sci-Tech University
+52,South China Agricultural University
+53,"Northeastern University, China"
+54,Hunan University
+55,Jinan University
+56,Ocean University of China
+57,Beijing Foreign Studies University
+58,China University of Geosciences Wuhan
+59,South University of Science and Technology
+60,Nanjing University of Aeronautics and Astronautics
+61,Jiujiang University
+62,Nanchang University
+63,Nanjing Agricultural University
+64,Guilin University of Electronic Technology
+65,Donghua University
+66,Shantou University
+67,Northwest A&F University
+68,Communication University of China
+69,Huaqiao University
+70,Southwestern University of Finance and Economics
+71,Chang'an University
+72,Beijing University of Chemical Technology
+73,Yangzhou University
+74,China University of Mining and Technology
+75,Dalian University of Foreign Languages
+76,"Northwest University, China"
+77,Henan University
+78,Fuzhou University
+79,China Three Gorges University
+80,Jingchu University of Technology
+81,Shanghai International Studies University
+82,Shandong Normal University
+83,Dalian Maritime University
+84,Hunan Normal University
+85,Southwest University
+86,Zhejiang Normal University
+87,Shanghai University of Finance and Economics
+88,Anhui University
+89,Beijing Language and Culture University
+90,Hainan University
+91,Yanshan University
+92,Jiangsu University
+93,Shaanxi Normal University
+94,Tianjin University of Technology
+95,Huazhong Agricultural University
+96,Harbin Engineering University
+97,Hohai University
+98,Changchun University
+99,China Europe International Business School
+100,University of Shanghai for Science and Technology
+101,Zhejiang University of Technology
+102,Qingdao University
+103,Nanjing University of Posts and Telecommunications
+104,Putian University
+105,Guangdong University of Foreign Studies
+106,Chongqing University of Posts and Telecommunications
+107,University of International Business and Economics
+108,Jiangxi University of Finance and Economics
+109,China Academy of Art
+110,Xi'an Jiaotong-Liverpool University
+111,Shanghai Tech University
+112,Guangdong University of Technology
+113,Tianjin University of Science and Technology
+114,Nanjing Medical University
+115,Nanjing University of Science and Technology
+116,Jiangnan University
+117,Guangxi University
+118,Nanjing Forestry University
+119,Northeast Normal University
+120,Fujian Normal University
+121,Beijing Forestry University
+122,Central University of Finance and Economics
+123,Anhui Normal University
+124,Anhui University of Finance and Economics
+125,Lanzhou University of Technology
+126,Shanghai University of Engineering Science
+127,Shaoxing University
+128,Guangzhou University
+129,Dalian University
+130,Jiaxing University
+131,North China Electric Power University
+132,Agricultural University of Hebei
+133,Shenyang Institute of Engineering
+134,Wuhan University of Science and Technology
+135,Shandong University of Technology
+136,Chengdu University of Information Technology
+137,Guangxi Normal University
+138,China University of Geosciences Beijing
+139,China University of Political Science and Law
+140,Shenyang Ligong University
+141,Northeast Forestry University
+142,Taiyuan University of Technology
+143,Guizhou University
+144,Nanjing University of Information Science and Technology
+145,Yunnan University
+146,Beijing University of Technology
+147,Hubei University
+148,Nanjing Normal University
+149,Yangtze University
+150,Hubei University of Technology
+151,Kunming University of Science and Technology
+152,TaiZhou University
+153,China Pharmaceutical University
+154,Yunnan Agricultural University
+155,Shanxi University
+156,Dongguan University of Technology
+157,Shandong University of Science and Technology
+158,Hebei University of Technology
+159,Ningxia University
+160,Zhongnan University of Economics and Law
+161,University of Jinan
+162,Hebei Normal University
+163,"The University of Nottingham Ningbo, China"
+164,Beijing University of Chinese Medicine
+165,"The Chinese University of Hong Kong, Shenzhen"
+166,Fujian Medical University
+167,China University of Petroleum
+168,Jiangxi Normal University
+169,Liaoning University
+170,Ningbo University
+171,Qingdao University of Science and Technology
+172,Nanjing Tech University
+173,Sichuan Agricultural University
+174,Nantong University
+175,Wenzhou University
+176,Hubei University of Automotive Technology
+177,Northwest Normal University
+178,Beijing International Studies University
+179,XiangTan University
+180,Southern Medical University
+181,National University of Defense Technology
+182,Tianjin Foreign Studies University
+183,Qilu University of Technology
+184,Shanghai Ocean University
+185,Hangzhou Dianzi University
+186,Sichuan University of Science and Engineering
+187,Changsha University of Science and Technology
+188,Shanghai Lixin University of Accounting and Finance
+189,Guangdong Ocean University
+190,Capital Normal University
+191,Inner Mongolia University
+192,Xiamen University of Technology
+193,Hunan Institute of Science and Technology
+194,Chengdu University of Technology
+195,Gansu Agricultural University
+196,Tianjin Normal University
+197,Zhejiang University of Finance and Economics
+198,Central Conservatory of Music
+199,Shanghai Normal University
+200,Hunan Agricultural University
+201,Anhui Medical University
+202,Harbin Normal University
+203,Tianjin University of Traditional Chinese Medicine
+204,Sichuan Fine Arts Institute
+205,Chongqing Medical University
+206,Anhui Agricultural University
+207,Southwest University of Political Science and Law
+208,Hefei University
+209,Guangdong University of Finance and Economics
+210,Shihezi University
+211,Capital University of Economics and Business
+212,Henan Polytechnic University
+213,Changchun University of Science and Technology
+214,Anhui Jianzhu University
+215,Yunnan Normal University
+216,Anhui University of Science and Technology
+217,Jiaying University
+218,Quzhou University
+219,Chongqing Normal University
+220,Civil Aviation University of China
+221,Yuxi Normal University
+222,Guizhou Normal University
+223,Zhejiang Shuren University
+224,Shijiazhuang Tiedao University
+225,Shanghai Maritime University
+226,University of South China
+227,Xi'an International University
+228,Fujian Agriculture and Forestry University
+229,Jiangsu Normal University
+230,Qufu Normal University
+231,East China University of Political Science and Law
+232,China Medical University
+233,Guangdong Medical University
+234,Anhui University of Technology
+235,Northeast Agricultural University
+236,Yunnan Minzu University
+237,Leshan Normal University
+238,South-Central University for Nationalities
+239,Beijing University of Civil Engineering and Architecture
+240,Dali University
+241,China Jiliang University
+242,Zhejiang Forestry University
+243,Henan Normal University
+244,Suzhou University of Science and Technology
+245,Zhejiang Gongshang University
+246,Foshan University
+247,Yantai University
+248,Harbin Medical University
+249,Xi'an University
+250,Sichuan International Studies University
+251,Zhongyuan University of Technology
+252,Nanjing Audit University
+253,Sichuan Normal University
+254,Wuhan Textile University
+255,Xi'an University of Architecture and Technology
+256,Hebei University
+257,Guilin University of Technology
+258,Taiyuan University of Science and Technology
+259,Shandong University of Finance and Economics
+260,Shanxi Normal University
+261,Zhejiang University of Science and Technology
+262,Xinjiang University
+263,North China University of Technology
+264,Dongbei University of Finance and Economics
+265,Shanghai University of Electric Power
+266,Nanchang HangKong University
+267,Henan University of Science and Technology
+268,Southwest Petroleum University
+269,Heilongjiang University
+270,Shaanxi University of Science and Technology
+271,Chengdu University of Traditional Chinese Medicine
+272,Chengdu University
+273,Jimei University
+274,China Central Academy of Fine Arts
+275,Changzhou University
+276,Jiangsu University of Science and Technology
+277,Shanghai University of International Business and Economics
+278,Wuhan Institute of Technology
+279,Hebei Medical University
+280,Jishou University
+281,China Foreign Affairs University
+282,Minzu University of China
+283,Liaoning Normal University
+284,Harbin University of Science and Technology
+285,Hebei University of Science and Technology
+286,Xuchang University
+287,Lanzhou Jiaotong University
+288,"Wuyi University, Guangdong"
+289,Peking Union Medical College
+290,Qinghai Normal University
+291,Shaoyang University
+292,Xi'an International Studies University
+293,Lanzhou University of Finance and Economics
+294,Huaiyin Institute of Technology
+295,Liaoning Technical University
+296,Fujian University of Technology
+297,Wannan Medical College
+298,Nanjing University of the Arts
+299,Tianjin University of Commerce
+300,Guangdong Technion Israel Institute of Technology
+301,Chongqing Jiaotong University
+302,Bohai University
+303,Qinghai University
+304,Nanjing Institute of Technology
+305,Shanghai University of Political Science and Law
+306,Jiangxi Agricultural University
+307,Duke Kunshan University
+308,Shenyang Aerospace University
+309,Guangxi Medical University
+310,Changsha Medical University
+311,Yuncheng University
+312,People's Public Security University of China
+313,Guangzhou Academy of Fine Arts
+314,Beijing City University
+315,Shanghai University of Sport
+316,Hangzhou Normal University
+317,Zhengzhou University of Light Industry
+318,North University of Nationalities
+319,Shenyang Pharmaceutical University
+320,Inner Mongolia University of Technology
+321,Xihua University
+322,Xi'an University of Technology
+323,Tianjin University of Technology and Education
+324,Hunan University of Technology
+325,Xuzhou Institute of Technology
+326,Southwest University of Science and Technology
+327,Anhui University of Chinese Medicine
+328,Hebei University of Economics and Business
+329,Central South University of Forestry and Technology
+330,Shanxi Medical University
+331,Zhongkai University of Agriculture and Engineering
+332,Wenzhou Medical University
+333,Hubei University of Medicine
+334,Beijing Film Academy
+335,Jilin Agricultural University
+336,Shanghai Second Polytechnic University
+337,Lingnan Normal University
+338,Xi'an University of Science and Technology
+339,Qingdao Agricultural University
+340,Tianjin Academy of Fine Arts
+341,Shenyang Agricultural University
+342,Inner Mongolia Normal University
+343,Linyi University
+344,Minjiang University
+345,Hubei Normal University
+346,Beijing Institute of Graphic Communication
+347,Anhui Xinhua University
+348,North University of China
+349,Northeast Electric Power University
+350,Hubei University of Economics
+351,Wuhan Polytechnic University
+352,Henan University of Urban Construction
+353,United International College
+354,Jingdezhen Ceramic Institute
+355,Shanxi Agricultural University
+356,Luoyang Institute of Science and Technology
+357,Xinjiang Normal University
+358,Shandong Jianzhu University
+359,Shenyang Normal University
+360,Guangzhou University of Chinese Medicine
+361,Weifang University
+362,Chongqing Technology and Business University
+363,Ningbo University of Technology
+364,Henan Agricultural University
+365,Nanjing Xiaozhuang University
+366,Hubei University of Education
+367,Hebei University of Engineering
+368,Beijing Institute of Petrochemical Technology
+369,Changchun University of Technology
+370,Jianghan University
+371,Jinling Institute of Technology
+372,Anhui Polytechnic University
+373,Nanjing University of Finance and Economics
+374,Chongqing University of Technology
+375,Jiangxi University of Science and Technology
+376,Shanghai Theatre Academy
+377,Shanghai Dianji University
+378,Shanghai University of Traditional Chinese Medicine
+379,Nanyang Institute of Technology
+380,Guangxi University for Nationalities
+381,Huaiyin Normal University
+382,Shandong Jiaotong University
+383,Nanjing University of Chinese Medicine
+384,Jiangxi University of Traditional Chinese Medicine
+385,Southwest Forestry University
+386,The National Academy of Chinese Theatre Arts
+387,Xuzhou Medical University
+388,China West Normal University
+389,Hanshan Normal University
+390,Tianjin Medical University
+391,Shandong Agricultural University
+392,Jiangsu Ocean University
+393,Quanzhou Normal University
+394,Tianshui Normal University
+395,Liaoning University of Technology
+396,Shandong University of Traditional Chinese Medicine
+397,Tianjin University of Finance and Economics
+398,Guilin Medical University
+399,Chongqing University of Education
+400,Beijing Technology and Business University
+401,Liaoning Shihua University
+402,Dalian Medical University
+403,Changshu Institute of Technology
+404,Hubei Institute of Fine Arts
+405,Yanbian University
+406,Yan'an University
+407,Inner Mongolia Agricultural University
+408,Henan University of Traditional Chinese Medicine
+409,Beijing Union University
+410,Dalian Nationalities University
+411,Southwest University for Nationalities
+412,Qiqihar University
+413,Hainan Normal University
+414,Baoji University of Arts and Sciences
+415,North Sichuan Medical College
+416,Chuzhou University
+417,North China University of Science and Technology
+418,China Youth University for Political Sciences
+419,Huanggang Normal University
+420,Beijing Dance Academy
+421,Beijing Sport University
+422,Guangzhou Medical University
+423,Henan Institute of Science and Technology
+424,Shanghai Jianqiao University
+425,Shenyang Jianzhu University
+426,Xinxiang Medical University
+427,Huanghe Jiaotong University
+428,Henan Institute of Engineering
+429,Henan University of Economics and Law
+430,Nanyang Normal University
+431,Xi'an Polytechnic University
+432,North China University of Water Resources and Electric Power
+433,Shanghai Conservatory of Music
+434,Huangshan University
+435,Dalian Jiaotong University
+436,Dalian Neusoft University of Information
+437,Henan University of Technology
+438,Shanxi University of Finance and Economics
+439,Heilongjiang University of Chinese Medicine
+440,Ningde Normal University
+441,Jinggangshan University
+442,Zhejiang Chinese Medical University
+443,Binzhou Medical University
+444,Xi'an Academy of Fine Arts
+445,Changzhou Institute of Technology
+446,Hunan City University
+447,Xi'an Eurasia University
+448,Shaoguan University
+449,Hunan University of Science and Engineering
+450,Tianjin University of Sport
+451,Guangxi Teachers Education University
+452,Nanchang Institute of Technology
+453,Beihua University
+454,Anyang Institute of Technology
+455,Jining University
+456,Chengde Medical University
+457,Honghe University
+458,Chongqing University of Science and Technology
+459,Huaibei Normal University
+460,Guangxi University of Finance and Economics
+461,Xi'an University of Posts and Telecommunications
+462,Dalian Polytechnic University
+463,Hunan University of Science and Technology
+464,Wuhan Conservatory of Music
+465,Sanya University
+466,Shandong University of Arts
+467,Sichuan Conservatory of Music
+468,Northeast Petroleum University
+469,China Women's University
+470,Tangshan Normal University
+471,Shaanxi University of Technology
+472,Shangqiu Normal University
+473,Hechi University
+474,Zhejiang Yuexiu University of Foreign Languages
+475,Huanghuai University
+476,Guangdong Polytechnic Normal University
+477,China University of Labor Relations
+478,East China Jiaotong University
+479,Huzhou University
+480,Harbin University of Commerce
+481,Longyan University
+482,Anhui Science and Technology University
+483,University of International Relations
+484,Shandong Yingcai University
+485,Shenyang Sport University
+486,Taiyuan Institute of Technology
+487,Huanghe Science and Technology College
+488,Tibet University
+489,Xinjiang Medical University
+490,Guangdong University of Finance
+491,Hebei Normal University of Science and Technology
+492,Qingdao University of Technology
+493,Guangxi Normal University for Nationalities
+494,Guizhou University of Finance and Economics
+495,Tangshan College
+496,Changzhi Medical College
+497,Qingdao Huanghai University
+498,Qinghai University for Nationalities
+499,China Conservatory of Music
+500,Jiangsu Teachers University of Technology
+501,Liaocheng University
+502,Hebei North University
+503,Zhengzhou University of Aeronautics
+504,Zhejiang University of Water Resources and Electric Power
+505,Jining Medical University
+506,Hubei Engineering University
+507,Qiannan Normal College for Nationalities
+508,Communication University of Zhejiang
+509,Bengbu Medical College
+510,Guangxi Science and Technology Normal University
+511,Huizhou University
+512,Huaihua University
+513,Xi'an Physical Education University
+514,Jiamusi University
+515,Huainan Normal University
+516,Beijing Wuzi University
+517,Mianyang Normal University
+518,Heilongjiang University of Science and Technology
+519,Yancheng Institute of Technology
+520,Jinzhou Medical University
+521,Shaanxi Institute of International Trade and Commerce
+522,Jilin Animation Institute
+523,Anyang Normal University
+524,Changsha University
+525,Daqing Normal University
+526,Yancheng Teachers University
+527,Shanghai Institute of Visual Art
+528,Shandong First Medical University
+529,Shanghai Institute of Technology
+530,Gansu University of Chinese Medicine
+531,Zunyi Medical University
+532,Dezhou University
+533,Northwest University of Politics and Law
+534,Beibu Gulf University
+535,Ningxia Medical University
+536,Beijing Information Science and Technology University
+537,Tianjin Chengjian University
+538,Taiyuan Normal University
+539,Zhejiang International Studies University
+540,Nanjing Sport Institute
+541,Xi'an Siyuan University
+542,Shenyang University of Technology
+543,Shenyang Medical College
+544,Inner Mongolia University of Finance and Economics
+545,Liaoning University of Traditional Chinese Medicine
+546,Hanjiang Normal University
+547,Anhui Wonder University of Information Engineering
+548,Hulunbeier University
+549,Hubei Polytechnic University
+550,Shandong Sport University
+551,Guangdong Pharmaceutical University
+552,Baicheng Normal University
+553,Zhejiang Ocean University
+554,Hubei University of Chinese Medicine
+555,Hunan Institute of Engineering
+556,Ningbo University of Finance and Economics
+557,Guizhou Medical University
+558,Tianjin Polytechnic University
+559,Xijing University
+560,Kashi University
+561,Xiangnan University
+562,Lanzhou Institute of Technology
+563,Neijiang Normal University
+564,Xinyang Normal University
+565,Changsha Normal University
+566,Shandong University of Art and Design
+567,Jilin University of Finance and Economics
+568,Baoshan University
+569,North China Institute of Aerospace Engineering
+570,Guizhou Education University
+571,Zhengzhou Institute of Finance and Economics
+572,Wuhan Sports University
+573,Minnan Normal University
+574,Wuchang University of Technology
+575,Fujian University of Traditional Chinese Medicine
+576,Changchun Normal University
+577,Hexi University
+578,Zhejiang Wanli University
+579,Jilin Normal University
+580,Hainan Tropical Ocean University
+581,East China University of Technology
+582,Mudanjiang Normal University
+583,Heze University
+584,Dalian Ocean University
+585,Nanchang Institute of Technology
+586,Zunyi Normal College
+587,Xiamen Huaxia University
+588,Hefei Normal University
+589,Guangxi University of Science and Technology
+590,Qingdao Binhai University
+591,Hebei GEO University
+592,Shaanxi University of Chinese Medicine
+593,Xinyu University
+594,Jilin Jianzhu University
+595,West Anhui University
+596,Southwest Medical University
+597,Yinchuan Energy Institute
+598,Northwest University for Nationalities
+599,LuXun Academy of Fine Arts
+600,Shandong Technology and Business University
+601,Tarim University
+602,"Zhengzhou Shengda University of Economics, Business and Management"
+603,Haikou College of Economics
+604,Hunan Women's University
+605,Yibin University
+606,Hebei Institute of Physical Education
+607,Xichang College
+608,Yunnan Arts University
+609,Wuxi Taihu University
+610,Fuyang Normal University
+611,Xinjiang Agricultural University
+612,Guangdong University of Petrochemical Technology
+613,Hunan University of Commerce
+614,Beijing University of Agriculture
+615,Jiangxi University of Technology
+616,Ludong University
+617,Chengdu Medical College
+618,Anqing Normal University
+619,Xi'an Peihua University
+620,Civil Aviation Flight University of China
+621,Chuxiong Normal University
+622,Tianjin Agricultural University
+623,Ningxia Institute of Science and Technology
+624,Xi'an University of Finance and Economics
+625,Xinjiang University of Finance and Economics
+626,Guangxi University of Chinese Medicine
+627,Yunnan University of Traditional Chinese Medicine
+628,Chongqing Three Gorges University
+629,Shanghai Business School
+630,Xizang Minzu University
+631,Baise University
+632,Shenyang Conservatory of Music
+633,Shaanxi Xueqian Normal University
+634,Changchun University of Chinese Medicine
+635,Jilin College of the Arts
+636,Wuzhou University
+637,Beijing Institute of Fashion Technology
+638,Guangdong Baiyun University
+639,Zhaoqing University
+640,Hunan First Normal University
+641,Chengdu Sport University
+642,Yunnan University of Finance and Economics
+643,Hebei Finance University
+644,Fujian Business University
+645,Xingtai University
+646,Jiangsu University of Technology
+647,Guilin University of Aerospace Technology
+648,Hunan University of Arts and Science
+649,Tianjin Conservatory of Music
+650,Hunan International Economics University
+651,Ankang University
+652,Fujian Jiangxia University
+653,Beijing Electronic Science and Technology Institute
+654,Guangzhou Sport University
+655,Shenyang University
+656,Hubei University for Nationalities
+657,Taishan University
+658,Hunan University of Chinese Medicine
+659,Chengdu Technological University
+660,Anhui Sanlian University
+661,Hainan Medical University
+662,Weifang Medical University
+663,Gannan Normal University
+664,Tonghua Normal University
+665,Hubei University of Arts and Science
+666,Ningxia Normal University
+667,Guangdong University of Education
+668,Yantai Nanshan University
+669,Hengyang Normal University
+670,Inner Mongolia University of Science and Technology
+671,Wenhua University
+672,Inner Mongolia University for the Nationalities
+673,Gansu University of Political Science and Law
+674,Guiyang University
+675,Shougang Institute of Technology
+676,Taizhou University
+677,Xi'an Fanyi University
+678,Shandong Xiehe University
+679,Shenyang University of Chemical Technology
+680,Xi'an Technological University
+681,Xi'an Aeronautical University
+682,Qilu Normal University
+683,Yulin Normal University
+684,Wenzhou-Kean University
+685,Luoyang Normal University
+686,Capital University of Physical Education and Sports
+687,Changchun Institute of Technology
+688,Wuyi University
+689,Wenzhou Business College
+690,Jilin Engineering Normal University
+691,Sanda University
+692,Heilongjiang Institute of Technology
+693,Shanxi University of Traditional Chinese Medicine
+694,Hebei Institute of Communication
+695,Jilin Business and Technology College
+696,Tianjin Tianshi College
+697,Binzhou University
+698,Suzhou University
+699,Jiangxi Science and Technology Normal University
+700,Inner Mongolia Medical University
+701,Beihai College of Art and Design
+702,Quanzhou Institute of Information Engineering
+703,The Central Academy of Drama
+704,Baoding University
+705,Guangxi Arts University
+706,Guangxi University of Foreign Languages
+707,Panzhihua University
+708,Zhoukou Normal University
+709,Zhengzhou Institute of Technology
+710,Yang-En University
+711,Jilin International Studies University
+712,Tianjin Zhongde University of Applied Sciences
+713,Zaozhuang University
+714,Zhengzhou Technology and Business University
+715,North China Institute of Science and Technology
+716,Tongling University
+717,Jilin Institute of Chemical Technology
+718,Hebei University of Chinese Medicine
+719,Handan College
+720,Weinan Normal University
+721,Xi'an Conservatory of Music
+722,Yichun University
+723,Xinjiang Arts University
+724,Xi'an Shiyou University
+725,Bengbu University
+726,Chifeng University
+727,"Neusoft Institute, Guangdong"
+728,University of Science and Technology Liaoning
+729,Sanjiang University
+730,Yili Normal University
+731,Luliang University
+732,Chongqing University of Arts and Sciences
+733,Beijing Geely University
+734,Shandong University of Political Science and Law
+735,Harbin University
+736,Hebei University of Architecture
+737,Guiyang University Traditional Chinese Medicine
+738,Chengdu Normal University
+739,Wuhan College of Media and Communications
+740,Heilongjiang Bayi Agricultural University
+741,Hunan Institute of Technology
+742,Kunming Medical University
+743,Guangdong Peizheng College
+744,Chaohu University
+745,Lishui University
+746,Shanghai University of Medicine and Health Sciences
+747,Shangluo University
+748,Pingdingshan University
+749,Jiangsu Second Normal University
+750,Shanxi Datong University
+751,Shandong Youth University of Political Science
+752,Yangtze Normal University
+753,Zhengzhou Normal University
+754,Hetao College
+755,Guizhou Minzu University
+756,Inner Mongolia Arts University
+757,Lanzhou City University
+758,Liaoning Institute of Science and Technology
+759,Sichuan University for Nationalities
+760,Xi'an Medical University
+761,Suihua University
+762,"Hunan University of Humanities, Science and Technology"
+763,Xianyang Normal University
+764,Harbin Institute of Information Technology
+765,Qiqihar Medical University
+766,Harbin Institute of Physical Education
+767,Hebei Foreign Studies University
+768,Xinxiang University
+769,Minnan University of Science and Technology
+770,Hebei Polytechnic Institute
+771,Gansu Normal University for Nationalities
+772,Mudanjiang Medical University
+773,Guangzhou College of Commerce
+774,Changchun University of Science and Technology
+775,Wuhan Institute of Bioengineering
+776,Xinyang Agriculture and Forestry University
+777,Sichuan University of Media and Communications
+778,Qilu Medical University
+779,Henan Finance University
+780,Zhengzhou University of Industrial Technology
+781,Jilin Medical University
+782,Anshan Normal University
+783,Zhejiang Conservatory of Music
+784,Weifang University of Science and Technology
+785,Kunming University
+786,Tibetan Traditional Medical College
+787,Sichuan Tourism University
+788,Eastern Liaoning University
+789,Changchun Architecture and Civil Engineering College
+790,Harbin Guangxia University
+791,Hubei Business College
+792,Henan University of Animal Husbandry and Economy
+793,Xiamen Institude of Technology
+794,Yanjing Institute of Technology
+795,Liaoning University of International Business and Economics
+796,Shandong Management University
+797,Cangzhou Normal University
+798,Shangqiu Institute of Technology
+799,Hengshui University
+800,Hunan Institute of Information Technology
+801,Changchun Guanghua University
+802,Moutai Institute
+803,Wuchang Institute of Technology
+804,Wuhan Technology and Business University
+805,Shandong Xiandai University
+806,Qiongtai Normal University
+807,Shandong Women's University
+808,Hebei College of Science and Technology
+809,East University of Heilongjiang
+810,Wenshan University
+811,Yulin University
+812,Shandong Agriculture and Engineering University
+813,Hebei University of Environmental Engineering
+814,Wuhan Business University
+815,Guangzhou Maritime University
+816,Nanchang Institute of Science and Technology
+817,Wuhan Donghu University
+818,Sichuan University of Arts and Science
+819,Liupanshui Normal University
+820,Hebei Normal University for Nationalities
+821,Zhengzhou Chenggong University of Finance and Economics
+822,Zhengzhou University of Science and Technology
+823,Nanchang Normal University
+824,Hangzhou Medical College
+825,Henan Institute of Technology
+826,Shanxi Technology and Business College
+827,Chizhou University
+828,Hunan University of Finance and Economics
+829,Liaoning Communication University
+830,"Chongqing College of Humanities, Science and Technology"
+831,Shenzhen MSU-BIT University
+832,Longdong University
+833,Chengdu College of Arts and Sciences
+834,Shandong Huayu University of Technology
+835,SanQuan Medical College
+836,Heihe University
+837,Gannan Medical University
+838,Xingyi Normal University for Nationalities
+839,Guizhou Institute of Technology
+840,Liaoning Finance and Trade College
+841,Jinzhong University
+842,Shaanxi Fashion Engineering University
+843,Shijiazhuang University
+844,Aba Teachers University
+845,Wuchang Shouyi University
+846,Changji University
+847,Lanzhou University of Arts and Science
+848,Chongqing Institute of Engineering
+849,Langfang Teachers University
+850,Anhui Institute of Information Technology
+851,Zhangjiakou University
+852,Chengdu Neusoft University
+853,Anhui International Studies University
+854,Harbin Conservatory of Music
+855,Shenyang Urban Construction University
+856,Changzhi University
+857,Anshun University
+858,Guilin Tourism University
+859,Tongren University
+860,Qujing Normal University
+861,Heilongjiang International University
+862,Inner Mongolia Nationality College
+863,Wuhan University of Engineering Science
+864,Qilu Institute of Technology
+865,Hebei Academy of Fine Arts
+866,Suqian College
+867,Hankou University
+868,Yunnan Technology and Business University
+869,Kaili University
+870,Wuhan Institute of Design and Sciences
+871,Qiqihar Institute of Engineering
+872,Zhaotong University
+873,NanTong Institute of Technology
+874,Heilongjiang University of Finance and Economics
+875,Gansu Medical College
+876,Jilin Agricultural Science and Technology College
+877,Jiangxi Institute of Fashion Technology
+878,Harbin Institute of Petroleum
+879,Sichuan University of Culture and Arts
+880,Dalian Art College
+881,Shangqiu University
+882,Anyang University
+883,Nanning University
+884,Xi'an Traffic Engineering Institute
+885,Wuhan Huaxia University of Technology
+886,Liaoning Institute of Science and Engineering
+887,Guizhou University of Commerce
+888,Youjiang Medical University for Nationalities
+889,Guizhou University of Engineering Science
+890,Harbin Finance University
+891,Guangdong University of Technology
+892,Bozhou University
+893,Hezhou University
+894,Pingxiang University
+895,Shanxi Institute of Technology
+896,Wuhan College
+897,Qingdao Institute of Technology
+898,Qingdao Hengxing University of Science and Technology
+899,Yunnan College of Business Management
+900,Hubei University of Science and Technology
+901,Fuzhou Institute of Technology
+902,Harbin Far East Institute of Technology
+903,Shangrao Normal University
+904,Taiyuan University
+905,Xinzhou Teachers University
+906,Ordos Institute of Technology
+907,Shenyang City University
+908,He University
+909,Dalian University of Finance and Economics
+910,Wuhan Qingchuan University
+911,Xinjiang Institute of Engineering
+912,Communication University of Shanxi
+913,Shenyang Institute of Technology
+914,Hunan Institute of Traffic Engineering
+915,Shanghai Xingwei College
+916,Guangdong University of Science and Technology
+917,Yuzhang Normal University
+918,Puer University
+919,Yingkou Institute of Technology
+920,Changchun University of Finance and Economics
+921,Hunan Applied Technology University
+922,Xinyang University
+923,Jingdezhen University
+924,Xinghai Conservatory of Music
+925,Harbin Cambridge University
+926,Hunan University of Medicine
+927,Harbin Huade University
+928,Shanxi College of Applied Science and Technology
+929,Heilongjiang College of Business and Technology
+930,Dalian University of Science and Technology
+931,Sichuan Film and Television University
+932,Jining Normal University
+933,Sichuan Institute of Industrial Technology
+934,West Yunnan University of Applied Sciences
+935,Heilongjiang University of Technology
+936,West Yunnan University
+937,Shenyang Institute of Science and Technology
+938,Sanming University
+939,Shanxi Institute of Energy
