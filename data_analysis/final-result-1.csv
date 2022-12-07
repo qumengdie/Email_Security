@@ -1,0 +1,848 @@
+Rank,University Name,Domain,MX,SPF,DKIM,DMARC
+1,Tsinghua University,tsinghua.edu.cn,[<DNS IN MX rdata: 10 mta0.tsinghua.edu.cn.>],True,True,True
+2,Peking University,pku.edu.cn,[<DNS IN MX rdata: 0 mx1.pku.edu.cn.>],True,True,True
+3,Zhejiang University,zju.edu.cn,[<DNS IN MX rdata: 10 mail.zju.edu.cn.>],True,False,False
+4,Shanghai Jiao Tong University,sjtu.edu.cn,[<DNS IN MX rdata: 20 mx03.sjtu.edu.cn.>],True,False,False
+5,Fudan University,fudan.edu.cn,[<DNS IN MX rdata: 1 mx-fudan-edu-cn.icoremail.net.>],True,True,True
+6,University of Science and Technology of China,ustc.edu.cn,[<DNS IN MX rdata: 10 smtp.ustc.edu.cn.>],True,True,True
+7,Nanjing University,nju.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+8,Harbin Institute of Technology,hit.edu.cn,[<DNS IN MX rdata: 10 mx.hit.edu.cn.>],True,False,False
+9,Xiamen University,xmu.edu.cn,[<DNS IN MX rdata: 0 mail.xmu.edu.cn.>],True,False,False
+10,Shandong University,sdu.edu.cn,[<DNS IN MX rdata: 10 sdu.edu.cn.>],True,False,False
+11,Tongji University,tongji.edu.cn,[<DNS IN MX rdata: 10 mx1.tongji.edu.cn.>],True,False,True
+12,Wuhan University,whu.edu.cn,[<DNS IN MX rdata: 10 whu.edu.cn.>],True,False,False
+13,Renmin University of China,ruc.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+14,Beihang University,buaa.edu.cn,[<DNS IN MX rdata: 10 mx-buaa-edu-cn.icoremail.net.>],True,False,True
+15,Xi'an Jiaotong University,xjtu.edu.cn,[<DNS IN MX rdata: 10 mail.xjtu.edu.cn.>],True,False,False
+16,Beijing Normal University,bnu.edu.cn,[<DNS IN MX rdata: 10 email.bnu.edu.cn.>],True,False,True
+17,Southeast University,seu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+18,Beijing Institute of Technology,bit.edu.cn,[<DNS IN MX rdata: 10 mailgw.bit.edu.cn.>],True,False,False
+19,Sun Yat-Sen University,sysu.edu.cn,[<DNS IN MX rdata: 10 mail.sysu.edu.cn.>],True,False,False
+20,Sichuan University,scu.edu.cn,[<DNS IN MX rdata: 5 mail.scu.edu.cn.>],True,False,False
+21,East China Normal University,ecnu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+22,Hefei University of Technology,hfut.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+23,Huazhong University of Science and Technology,hust.edu.cn,[<DNS IN MX rdata: 2 mail.hust.edu.cn.>],True,False,False
+24,Nankai University,nankai.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],False,False,True
+25,Chongqing University,cqu.edu.cn,[<DNS IN MX rdata: 0 mail.cqu.edu.cn.>],True,False,False
+26,South China University of Technology,scut.edu.cn,[<DNS IN MX rdata: 5 mx3.scut.edu.cn.>],True,False,True
+27,Tianjin University,tju.edu.cn,[<DNS IN MX rdata: 15 mxhm.qiye.163.com.>],True,False,False
+28,Central South University,csu.edu.cn,[<DNS IN MX rdata: 5 mx-csu-edu-cn.icoremail.net.>],True,False,False
+29,University of Electronic Science and Technology of China,uestc.edu.cn,[<DNS IN MX rdata: 5 mail.uestc.edu.cn.>],True,True,True
+30,Lanzhou University,lzu.edu.cn,[<DNS IN MX rdata: 3 mx.mail.lzu.edu.cn.>],True,False,True
+31,Northwestern Polytechnical University,nwpu.edu.cn,[<DNS IN MX rdata: 15 nwpu03.nwpu.edu.cn.>],True,True,True
+32,Dalian University of Technology,dlut.edu.cn,[<DNS IN MX rdata: 20 mx1.dlut.edu.cn.>],True,False,False
+33,China University of Petroleum,upc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+34,China Agricultural University,cau.edu.cn,[<DNS IN MX rdata: 20 mx3.cau.edu.cn.>],True,True,True
+35,Jilin University,jlu.edu.cn,[<DNS IN MX rdata: 0 mail.jlu.edu.cn.>],True,False,False
+36,Shenzhen University,szu.edu.cn,[<DNS IN MX rdata: 10 mx-szu-edu-cn.icoremail.net.>],True,True,True
+37,Central China Normal University,ccnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz.vip.qq.com.>],True,False,False
+38,Shanghai University,shu.edu.cn,[<DNS IN MX rdata: 10 newmail.shu.edu.cn.>],True,False,False
+39,Xidian University,xidian.edu.cn,[<DNS IN MX rdata: 10 smg.xidian.edu.cn.>],True,False,False
+40,South China Normal University,scnu.edu.cn,[<DNS IN MX rdata: 5 mx1.scnu.edu.cn.>],True,False,False
+41,Beijing Jiaotong University,bjtu.edu.cn,[<DNS IN MX rdata: 10 smg.bjtu.edu.cn.>],True,False,False
+42,Soochow University,suda.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+43,University of the Chinese Academy of Sciences,ucas.ac.cn,[<DNS IN MX rdata: 5 mx.cstnet.cn.>],True,False,False
+44,Zhengzhou University,zzu.edu.cn,[<DNS IN MX rdata: 10 mx.zzu.edu.cn.>],True,False,False
+45,East China University of Science and Technology,ecust.edu.cn,[<DNS IN MX rdata: 5 smg.ecust.edu.cn.>],False,False,False
+46,Capital Medical University,ccmu.edu.cn,[<DNS IN MX rdata: 10 mail.ccmu.edu.cn.>],True,True,True
+47,Southwest Jiaotong University,swjtu.edu.cn,[<DNS IN MX rdata: 5 home.swjtu.edu.cn.>],True,False,False
+48,Beijing University of Posts and Telecommunications,bupt.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,True
+49,Wuhan University of Technology,whut.edu.cn,[<DNS IN MX rdata: 1 hzmx01.mxmail.netease.com.>],True,False,True
+50,University of Science and Technology Beijing,ustb.edu.cn,[<DNS IN MX rdata: 20 smtp.ustb.edu.cn.>],True,False,False
+51,Zhejiang Sci-Tech University,zstu.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],True,False,True
+52,South China Agricultural University,scau.edu.cn,[<DNS IN MX rdata: 10 mail.scau.edu.cn.>],True,True,False
+53,"Northeastern University, China",neu.edu.cn,[<DNS IN MX rdata: 10 gateway1.neu.edu.cn.>],True,False,False
+54,Hunan University,hnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+55,Jinan University,jnu.edu.cn,[<DNS IN MX rdata: 5 register.jnu.edu.cn.>],True,False,False
+56,Ocean University of China,ouc.edu.cn,[<DNS IN MX rdata: 10 mail.ouc.edu.cn.>],True,False,False
+57,Beijing Foreign Studies University,bfsu.edu.cn,[<DNS IN MX rdata: 5 mxbiz.vip.qq.com.>],True,False,False
+58,China University of Geosciences Wuhan,cug.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+59,South University of Science and Technology,sustech.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+60,Nanjing University of Aeronautics and Astronautics,nuaa.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+61,Jiujiang University,jju.edu.cn,[<DNS IN MX rdata: 11 mail.jju.edu.cn.>],False,False,False
+62,Nanchang University,ncu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+63,Nanjing Agricultural University,njau.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+64,Guilin University of Electronic Technology,guet.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+65,Donghua University,dhu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+66,Shantou University,stu.edu.cn,[<DNS IN MX rdata: 5 stu-edu-cn.mail.protection.partner.outlook.cn.>],True,False,False
+67,Northwest A&F University,nwafu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+68,Communication University of China,cuc.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],False,False,True
+69,Huaqiao University,hqu.edu.cn,[<DNS IN MX rdata: 10 mx.hqu.edu.cn.>],True,False,False
+70,Southwestern University of Finance and Economics,swufe.edu.cn,[<DNS IN MX rdata: 5 wmail.swufe.edu.cn.>],True,False,False
+71,Chang'an University,chd.edu.cn,[<DNS IN MX rdata: 15 mxhm.qiye.163.com.>],True,False,False
+72,Beijing University of Chemical Technology,buct.edu.cn,[<DNS IN MX rdata: 10 mx-buct-cn.icoremail.net.>],True,False,True
+73,Yangzhou University,yzu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+74,China University of Mining and Technology,cumt.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+75,Dalian University of Foreign Languages,dlufl.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+76,"Northwest University, China",nwu.edu.cn,[<DNS IN MX rdata: 8 mail.nwu.edu.cn.>],True,False,False
+77,Henan University,henu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+78,Fuzhou University,fzu.edu.cn,[<DNS IN MX rdata: 100 fzu.edu.cn.>],True,False,False
+79,China Three Gorges University,ctgu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+80,Jingchu University of Technology,jcut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+81,Shanghai International Studies University,shisu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+82,Shandong Normal University,sdnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+83,Dalian Maritime University,dlmu.edu.cn,[<DNS IN MX rdata: 5 mailgw.dlmu.edu.cn.>],True,False,False
+84,Hunan Normal University,hunnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+85,Southwest University,swu.edu.cn,[<DNS IN MX rdata: 10 mail.swu.edu.cn.>],True,False,False
+86,Zhejiang Normal University,zjnu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+87,Shanghai University of Finance and Economics,sufe.edu.cn,[<DNS IN MX rdata: 3 mx-shufe-edu-cn.icoremail.net.>],True,False,False
+88,Anhui University,ahu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+89,Beijing Language and Culture University,blcu.edu.cn,[<DNS IN MX rdata: 20 mxbiz2.qq.com.>],True,False,False
+90,Hainan University,hainanu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+91,Yanshan University,ysu.edu.cn,[<DNS IN MX rdata: 0 mail.ysu.edu.cn.>],True,True,False
+92,Jiangsu University,ujs.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+93,Shaanxi Normal University,snnu.edu.cn,[<DNS IN MX rdata: 40 mxcnc2.snnu.edu.cn.>],True,False,False
+94,Tianjin University of Technology,tjut.edu.cn,[<DNS IN MX rdata: 3 tjut.abroad.eyou.net.>],True,False,False
+95,Huazhong Agricultural University,hzau.edu.cn,[<DNS IN MX rdata: 0 mail.hzau.edu.cn.>],True,False,False
+96,Harbin Engineering University,hrbeu.edu.cn,[<DNS IN MX rdata: 10 mx2.hrbeu.edu.cn.>],True,False,False
+97,Hohai University,hhu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+98,Changchun University,ccu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+99,China Europe International Business School,ceibs.edu,[<DNS IN MX rdata: 10 categorizer0.ceibs.edu.>],True,False,False
+100,University of Shanghai for Science and Technology,usst.edu.cn,[<DNS IN MX rdata: 10 smtp.usst.edu.cn.>],True,False,False
+101,Zhejiang University of Technology,zjut.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+102,Qingdao University,qdu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+103,Nanjing University of Posts and Telecommunications,njupt.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+104,Putian University,ptu.edu.cn,[<DNS IN MX rdata: 1 mx.spamgateway.cn.>],False,False,False
+105,Guangdong University of Foreign Studies,gdufs.edu.cn,[<DNS IN MX rdata: 20 hzmx01.mxmail.netease.com.>],True,False,True
+106,Chongqing University of Posts and Telecommunications,cqupt.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+107,University of International Business and Economics,uibe.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+108,Jiangxi University of Finance and Economics,jxufe.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+109,China Academy of Art,caa.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+110,Xi'an Jiaotong-Liverpool University,xjtlu.edu.cn,[<DNS IN MX rdata: 10 mail.xjtlu.edu.cn.>],True,False,False
+111,Shanghai Tech University,shanghaitech.edu.cn,[<DNS IN MX rdata: 5 mail.shanghaitech.edu.cn.>],True,False,True
+112,Guangdong University of Technology,gdut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+113,Tianjin University of Science and Technology,tust.edu.cn,[<DNS IN MX rdata: 5 mail.tust.edu.cn.>],True,False,False
+114,Nanjing Medical University,njmu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+115,Nanjing University of Science and Technology,njust.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+116,Jiangnan University,jiangnan.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+117,Guangxi University,gxu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+118,Nanjing Forestry University,njfu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+119,Northeast Normal University,nenu.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],True,False,True
+120,Fujian Normal University,fjnu.edu.cn,[<DNS IN MX rdata: 1 mtagw.fjnu.edu.cn.>],True,False,True
+121,Beijing Forestry University,bjfu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+122,Central University of Finance and Economics,cufe.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+123,Anhui Normal University,ahnu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+124,Anhui University of Finance and Economics,aufe.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+125,Lanzhou University of Technology,lut.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+126,Shanghai University of Engineering Science,sues.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+127,Shaoxing University,usx.edu.cn,[<DNS IN MX rdata: 0 email.usx.edu.cn.>],True,False,True
+128,Guangzhou University,gzhu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+129,Dalian University,dlu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+130,Jiaxing University,zjxu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+131,North China Electric Power University,ncepu.edu.cn,[<DNS IN MX rdata: 10 ms84834805.msv1.invalid.>],True,False,False
+132,Agricultural University of Hebei,hebau.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+133,Shenyang Institute of Engineering,sie.edu.cn,[<DNS IN MX rdata: 10 mx1.icoremail.net.>],True,False,False
+134,Wuhan University of Science and Technology,wust.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+135,Shandong University of Technology,sdut.edu.cn,[<DNS IN MX rdata: 10 smtp.sdut.edu.cn.>],True,False,False
+136,Chengdu University of Information Technology,cuit.edu.cn,[<DNS IN MX rdata: 10 mailw.cuit.edu.cn.>],True,False,False
+137,Guangxi Normal University,gxnu.edu.cn,[<DNS IN MX rdata: 15 mxhm.qiye.163.com.>],True,False,True
+138,China University of Geosciences Beijing,cugb.edu.cn,[<DNS IN MX rdata: 5 mail.cugb.edu.cn.>],True,False,False
+139,China University of Political Science and Law,cupl.edu.cn,[<DNS IN MX rdata: 10 mail.cupl.edu.cn.>],True,False,False
+140,Shenyang Ligong University,sylu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+141,Northeast Forestry University,nefu.edu.cn,[<DNS IN MX rdata: 1 mx-nefu-edu-cn.icoremail.net.>],True,False,False
+142,Taiyuan University of Technology,tyut.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+143,Guizhou University,gzu.edu.cn,[<DNS IN MX rdata: 10 mail.gzu.edu.cn.>],True,False,False
+144,Nanjing University of Information Science and Technology,nuist.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+145,Yunnan University,ynu.edu.cn,[<DNS IN MX rdata: 10 mail.ynu.edu.cn.>],True,False,False
+146,Beijing University of Technology,bjut.edu.cn,[<DNS IN MX rdata: 10 mx-bjut-edu-cn.icoremail.net.>],True,False,False
+147,Hubei University,hubu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+148,Nanjing Normal University,njnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+149,Yangtze University,yangtzeu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+150,Hubei University of Technology,hbut.edu.cn,[<DNS IN MX rdata: 1 mxbiz2.qq.com.>],True,False,False
+151,Kunming University of Science and Technology,kmust.edu.cn,[<DNS IN MX rdata: 10 mxmail.icoremail.net.>],False,False,False
+152,TaiZhou University,tzc.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+153,China Pharmaceutical University,cpu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+154,Yunnan Agricultural University,ynau.edu.cn,[<DNS IN MX rdata: 10 mxmail.icoremail.net.>],False,False,False
+155,Shanxi University,sxu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+156,Dongguan University of Technology,dgut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+157,Shandong University of Science and Technology,sdust.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+158,Hebei University of Technology,hebut.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+159,Ningxia University,nxu.edu.cn,[<DNS IN MX rdata: 10 email.nxu.edu.cn.>],True,False,False
+160,Zhongnan University of Economics and Law,zuel.edu.cn,[<DNS IN MX rdata: 10 mailserver.zuel.edu.cn.>],True,False,False
+161,University of Jinan,ujn.edu.cn,[<DNS IN MX rdata: 5 mx-ujn-edu-cn.icoremail.net.>],True,True,False
+162,Hebei Normal University,hebtu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+163,"The University of Nottingham Ningbo, China",nottingham.edu.cn,[<DNS IN MX rdata: 10 nottingham-edu-cn.mail.protection.outlook.com.>],False,False,False
+164,Beijing University of Chinese Medicine,bucm.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+165,"The Chinese University of Hong Kong, Shenzhen",cuhk.edu.cn,[<DNS IN MX rdata: 10 mail.cuhk.edu.cn.>],True,False,False
+166,Fujian Medical University,fjmu.edu.cn,[<DNS IN MX rdata: 10 fjmu.edu.cn.>],True,False,False
+167,China University of Petroleum,cup.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+168,Jiangxi Normal University,jxnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+169,Liaoning University,lnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+170,Ningbo University,nbu.edu.cn,[<DNS IN MX rdata: 40 smtp.nbu.edu.cn.>],True,False,True
+171,Qingdao University of Science and Technology,qust.edu.cn,[<DNS IN MX rdata: 10 mail.qust.edu.cn.>],True,False,False
+172,Nanjing Tech University,njtech.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+173,Sichuan Agricultural University,sicau.edu.cn,[<DNS IN MX rdata: 90 mxmail.icoremail.net.>],True,False,False
+174,Nantong University,ntu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+175,Wenzhou University,wzu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+176,Hubei University of Automotive Technology,huat.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],False,False,False
+177,Northwest Normal University,nwnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+178,Beijing International Studies University,bisu.edu.cn,[<DNS IN MX rdata: 10 mail.bisu.edu.cn.>],True,False,False
+179,XiangTan University,xtu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+180,Southern Medical University,smu.edu.cn,[<DNS IN MX rdata: 10 mail.smu.edu.cn.>],True,False,False
+181,National University of Defense Technology,nudt.edu.cn,[<DNS IN MX rdata: 5 mx-nudt-edu-cn.icoremail.net.>],True,False,False
+182,Tianjin Foreign Studies University,tjfsu.edu.cn,[<DNS IN MX rdata: 5 qiye163mx01.mxmail.netease.com.>],True,False,False
+183,Qilu University of Technology,qlu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+184,Shanghai Ocean University,shou.edu.cn,[<DNS IN MX rdata: 10 mail.shou.edu.cn.>],True,False,False
+185,Hangzhou Dianzi University,hdu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+186,Sichuan University of Science and Engineering,suse.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+187,Changsha University of Science and Technology,csust.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+188,Shanghai Lixin University of Accounting and Finance,lixin.edu.cn,[<DNS IN MX rdata: 20 mail.lixin.edu.cn.>],True,False,False
+189,Guangdong Ocean University,gdou.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+190,Capital Normal University,cnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+191,Inner Mongolia University,imu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+192,Xiamen University of Technology,xmut.edu.cn,[<DNS IN MX rdata: 1 xmut.abroad.eyou.net.>],True,False,True
+194,Chengdu University of Technology,cdut.edu.cn,[<DNS IN MX rdata: 10 mx-cdut-edu-cn.icoremail.net.>],True,True,True
+195,Gansu Agricultural University,gsau.edu.cn,[<DNS IN MX rdata: 5 mail.gsau.edu.cn.>],True,False,False
+196,Tianjin Normal University,tjnu.edu.cn,[<DNS IN MX rdata: 5 mail.tjnu.edu.cn.>],True,False,False
+197,Zhejiang University of Finance and Economics,zufe.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+198,Central Conservatory of Music,ccom.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+199,Shanghai Normal University,shnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+200,Hunan Agricultural University,hunau.edu.cn,[<DNS IN MX rdata: 15 mxbiz1.qq.com.>],True,False,False
+201,Anhui Medical University,ahmu.edu.cn,[<DNS IN MX rdata: 10 mail.ahmu.edu.cn.>],True,False,False
+202,Harbin Normal University,hrbnu.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],True,False,True
+203,Tianjin University of Traditional Chinese Medicine,tjutcm.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,False
+205,Chongqing Medical University,cqmu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+206,Anhui Agricultural University,ahau.edu.cn,[<DNS IN MX rdata: 10 smtp.ahau.edu.cn.>],True,False,False
+207,Southwest University of Political Science and Law,swupl.edu.cn,[<DNS IN MX rdata: 0 mx-edu1.icoremail.net.>],True,False,False
+208,Hefei University,hfuu.edu.cn,[<DNS IN MX rdata: 20 email.hfuu.edu.cn.>],True,False,True
+209,Guangdong University of Finance and Economics,gdufe.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+210,Shihezi University,shzu.edu.cn,[<DNS IN MX rdata: 1 mx-shzu-edu-cn.icoremail.net.>],True,False,False
+211,Capital University of Economics and Business,cueb.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+212,Henan Polytechnic University,hpu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+213,Changchun University of Science and Technology,cust.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+214,Anhui Jianzhu University,ahjzu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+215,Yunnan Normal University,ynnu.edu.cn,[<DNS IN MX rdata: 10 vip.ynnu.edu.cn.>],True,False,True
+216,Anhui University of Science and Technology,aust.edu.cn,[<DNS IN MX rdata: 10 email.aust.edu.cn.>],True,False,False
+217,Jiaying University,jyu.edu.cn,[<DNS IN MX rdata: 5 jyu.abroad.eyou.net.>],False,False,False
+218,Quzhou University,qzc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+219,Chongqing Normal University,cqnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+220,Civil Aviation University of China,cauc.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+221,Yuxi Normal University,yxnu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+222,Guizhou Normal University,gznu.edu.cn,[<DNS IN MX rdata: 50 hzmx01.mxmail.netease.com.>],True,False,True
+223,Zhejiang Shuren University,zjsru.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+224,Shijiazhuang Tiedao University,stdu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+225,Shanghai Maritime University,shmtu.edu.cn,[<DNS IN MX rdata: 5 mail.shmtu.edu.cn.>],True,False,True
+226,University of South China,usc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+227,Xi'an International University,xaiu.edu.cn,[<DNS IN MX rdata: 10 mx1.icoremail.net.>],False,False,False
+228,Fujian Agriculture and Forestry University,fafu.edu.cn,[<DNS IN MX rdata: 10 smtp.cernet.fafu.edu.cn.>],True,False,False
+229,Jiangsu Normal University,jsnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+230,Qufu Normal University,qfnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+231,East China University of Political Science and Law,ecupl.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+232,China Medical University,cmu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+233,Guangdong Medical University,gdmu.edu.cn,[<DNS IN MX rdata: 10 eyoumail.gdmu.edu.cn.>],True,False,False
+234,Anhui University of Technology,ahut.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+235,Northeast Agricultural University,neau.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+236,Yunnan Minzu University,ynni.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+237,Leshan Normal University,lsnu.edu.cn,[<DNS IN MX rdata: 15 webmail.lsnu.edu.cn.>],False,False,False
+238,South-Central University for Nationalities,scuec.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+239,Beijing University of Civil Engineering and Architecture,bucea.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+241,China Jiliang University,cjlu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+242,Zhejiang Forestry University,zafu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+243,Henan Normal University,htu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+244,Suzhou University of Science and Technology,usts.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+245,Zhejiang Gongshang University,zjgsu.edu.cn,[<DNS IN MX rdata: 1 mail.zjgsu.edu.cn.>],True,False,True
+246,Foshan University,fosu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+247,Yantai University,ytu.edu.cn,[<DNS IN MX rdata: 10 mail.ytu.edu.cn.>],False,False,False
+248,Harbin Medical University,hrbmu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+249,Xi'an University,xawl.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+250,Sichuan International Studies University,sisu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+251,Zhongyuan University of Technology,zut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+252,Nanjing Audit University,nau.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+253,Sichuan Normal University,sicnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+254,Wuhan Textile University,wtu.edu.cn,[<DNS IN MX rdata: 10 mail.wtu.edu.cn.>],True,False,False
+255,Xi'an University of Architecture and Technology,xauat.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+256,Hebei University,hbu.edu.cn,[<DNS IN MX rdata: 5 mail.hbu.cn.>],True,False,False
+257,Guilin University of Technology,glut.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+258,Taiyuan University of Science and Technology,tyust.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+259,Shandong University of Finance and Economics,sdufe.edu.cn,[<DNS IN MX rdata: 10 testmail.sdufe.edu.cn.>],True,False,False
+260,Shanxi Normal University,sxnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+261,Zhejiang University of Science and Technology,zust.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+262,Xinjiang University,xju.edu.cn,[<DNS IN MX rdata: 5 mxmail.icoremail.net.>],False,False,False
+263,North China University of Technology,ncut.edu.cn,[<DNS IN MX rdata: 5 ncut.edu.cn.>],True,False,False
+264,Dongbei University of Finance and Economics,dufe.edu.cn,[<DNS IN MX rdata: 1 columba.dufe.edu.cn.>],True,False,False
+265,Shanghai University of Electric Power,shiep.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+266,Nanchang HangKong University,nchu.edu.cn,[<DNS IN MX rdata: 10 mailgateway.device.nchu.edu.cn.>],True,False,False
+267,Henan University of Science and Technology,haust.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+268,Southwest Petroleum University,swpu.edu.cn,[<DNS IN MX rdata: 10 swpu.abroad.eyou.net.>],True,False,False
+269,Heilongjiang University,hlju.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+270,Shaanxi University of Science and Technology,sust.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+271,Chengdu University of Traditional Chinese Medicine,cdutcm.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+273,Jimei University,jmu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+274,China Central Academy of Fine Arts,cafa.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.cafa.edu.cn.>],True,False,False
+275,Changzhou University,cczu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+276,Jiangsu University of Science and Technology,just.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+277,Shanghai University of International Business and Economics,suibe.edu.cn,[<DNS IN MX rdata: 5 mx-suibe-edu-cn.icoremail.net.>],True,False,False
+278,Wuhan Institute of Technology,wit.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+279,Hebei Medical University,hebmu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+280,Jishou University,jsu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+281,China Foreign Affairs University,cfau.edu.cn,[<DNS IN MX rdata: 10 mail.cfau.edu.cn.>],True,True,True
+282,Minzu University of China,muc.edu.cn,[<DNS IN MX rdata: 10 mxhm.qiye.163.com.>],True,False,False
+283,Liaoning Normal University,lnnu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+284,Harbin University of Science and Technology,hrbust.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+285,Hebei University of Science and Technology,hebust.edu.cn,[<DNS IN MX rdata: 20 mx-edu.icoremail.net.>],True,False,False
+286,Xuchang University,xcu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+287,Lanzhou Jiaotong University,lzjtu.edu.cn,[<DNS IN MX rdata: 5 mx2.lzjtu.cn.>],False,False,False
+288,"Wuyi University, Guangdong",wyu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+289,Peking Union Medical College,pumc.edu.cn,[<DNS IN MX rdata: 1 mail2.pumc.edu.cn.>],True,False,False
+290,Qinghai Normal University,qhnu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+291,Shaoyang University,hnsyu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+292,Xi'an International Studies University,xisu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+293,Lanzhou University of Finance and Economics,lzufe.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+294,Huaiyin Institute of Technology,hyit.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+295,Liaoning Technical University,lntu.edu.cn,[<DNS IN MX rdata: 10 mail.lntu.edu.cn.>],False,False,False
+296,Fujian University of Technology,fjut.edu.cn,[<DNS IN MX rdata: 40 imap.fjut.edu.cn.>],True,True,True
+297,Wannan Medical College,wnmc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+298,Nanjing University of the Arts,nua.edu.cn,[<DNS IN MX rdata: 10 mail.nua.edu.cn.>],False,False,False
+299,Tianjin University of Commerce,tjcu.edu.cn,[<DNS IN MX rdata: 5 mailserver.tjcu.edu.cn.>],True,False,False
+300,Guangdong Technion Israel Institute of Technology,gtiit.edu.cn,[<DNS IN MX rdata: 1 gtiit-edu-cn.mail.protection.outlook.com.>],True,False,True
+301,Chongqing Jiaotong University,cqjtu.edu.cn,[<DNS IN MX rdata: 10 mxbiz1.qq.com.>],True,False,False
+302,Bohai University,bhu.edu.cn,[<DNS IN MX rdata: 10 mailserver2.bhu.edu.cn.>],False,False,False
+303,Qinghai University,qhu.edu.cn,[<DNS IN MX rdata: 10 mail.qhu.edu.cn.>],True,False,False
+304,Nanjing Institute of Technology,njit.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+305,Shanghai University of Political Science and Law,shupl.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+306,Jiangxi Agricultural University,jxau.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+307,Duke Kunshan University,dukekunshan.edu.cn,[<DNS IN MX rdata: 0 dku-mx1.wip.duke.edu.>],False,False,False
+308,Shenyang Aerospace University,sau.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+309,Guangxi Medical University,gxmu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+310,Changsha Medical University,csmu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+311,Yuncheng University,ycu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+312,People's Public Security University of China,ppsuc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+313,Guangzhou Academy of Fine Arts,gzarts.edu.cn,[<DNS IN MX rdata: 5 mail.gzarts.edu.cn.>],False,False,False
+314,Beijing City University,bcu.edu.cn,[<DNS IN MX rdata: 10 mailserver.bcu.edu.cn.>],True,False,False
+315,Shanghai University of Sport,sus.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+316,Hangzhou Normal University,hznu.edu.cn,[<DNS IN MX rdata: 5 mxmail.icoremail.net.>],True,False,False
+317,Zhengzhou University of Light Industry,zzuli.edu.cn,[<DNS IN MX rdata: 5 mx-zzuli-edu-cn.icoremail.net.>],False,False,True
+318,North University of Nationalities,nmu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+319,Shenyang Pharmaceutical University,syphu.edu.cn,[<DNS IN MX rdata: 10 mail.syphu.edu.cn.>],True,False,False
+320,Inner Mongolia University of Technology,imut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+321,Xihua University,xhu.edu.cn,[<DNS IN MX rdata: 10 914149313.mail.outlook.com.>],False,False,False
+322,Xi'an University of Technology,xaut.edu.cn,[<DNS IN MX rdata: 10 mail.xaut.edu.cn.>],False,False,False
+323,Tianjin University of Technology and Education,tute.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+324,Hunan University of Technology,hut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+325,Xuzhou Institute of Technology,xzit.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+326,Southwest University of Science and Technology,swust.edu.cn,[<DNS IN MX rdata: 5 mx1.icoremail.net.>],True,False,False
+328,Hebei University of Economics and Business,heuet.edu.cn,[<DNS IN MX rdata: 5 mail.heuet.edu.cn.>],True,False,False
+329,Central South University of Forestry and Technology,csuft.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+330,Shanxi Medical University,sxmu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+331,Zhongkai University of Agriculture and Engineering,zhku.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+332,Wenzhou Medical University,wmu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+334,Beijing Film Academy,bfa.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+335,Jilin Agricultural University,jlau.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+336,Shanghai Second Polytechnic University,sspu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+338,Xi'an University of Science and Technology,xust.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,False
+339,Qingdao Agricultural University,qau.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+340,Tianjin Academy of Fine Arts,tjarts.edu.cn,[<DNS IN MX rdata: 0 mxhm.qiye.163.com.>],False,False,False
+341,Shenyang Agricultural University,syau.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+342,Inner Mongolia Normal University,imnu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+343,Linyi University,lyu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+344,Minjiang University,mju.edu.cn,[<DNS IN MX rdata: 5 mail.mju.edu.cn.>],True,False,False
+345,Hubei Normal University,hbnu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+346,Beijing Institute of Graphic Communication,bigc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+347,Anhui Xinhua University,axhu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+348,North University of China,nuc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+349,Northeast Electric Power University,neepu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+350,Hubei University of Economics,hbue.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+352,Henan University of Urban Construction,hncj.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+353,United International College,uic.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+354,Jingdezhen Ceramic Institute,jci.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+355,Shanxi Agricultural University,sxau.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+356,Luoyang Institute of Science and Technology,lit.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+357,Xinjiang Normal University,xjnu.edu.cn,[<DNS IN MX rdata: 5 mx-edu1.icoremail.net.>],False,False,False
+358,Shandong Jianzhu University,sdjzu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+359,Shenyang Normal University,synu.edu.cn,[<DNS IN MX rdata: 0 email.synu.edu.cn.>],False,False,False
+360,Guangzhou University of Chinese Medicine,gzucm.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+361,Weifang University,wfu.edu.cn,[<DNS IN MX rdata: 5 mxmail.icoremail.net.>],False,False,False
+362,Chongqing Technology and Business University,ctbu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+363,Ningbo University of Technology,nbut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+364,Henan Agricultural University,henau.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+365,Nanjing Xiaozhuang University,njxzc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+366,Hubei University of Education,hue.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+367,Hebei University of Engineering,hebeu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+368,Beijing Institute of Petrochemical Technology,bipt.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+369,Changchun University of Technology,ccut.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+370,Jianghan University,jhun.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+371,Jinling Institute of Technology,jit.edu.cn,[<DNS IN MX rdata: 10 mxmail.icoremail.net.>],True,False,False
+372,Anhui Polytechnic University,ahpu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+373,Nanjing University of Finance and Economics,nufe.edu.cn,[<DNS IN MX rdata: 10 mx-edu1.icoremail.net.>],True,False,False
+374,Chongqing University of Technology,cqut.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+375,Jiangxi University of Science and Technology,jxust.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+376,Shanghai Theatre Academy,sta.edu.cn,[<DNS IN MX rdata: 10 mail.sta.edu.cn.>],False,False,False
+377,Shanghai Dianji University,sdju.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+378,Shanghai University of Traditional Chinese Medicine,shutcm.edu.cn,[<DNS IN MX rdata: 5 mail.shutcm.edu.cn.>],False,False,False
+379,Nanyang Institute of Technology,nyist.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+380,Guangxi University for Nationalities,gxmzu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,True
+381,Huaiyin Normal University,hytc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+382,Shandong Jiaotong University,sdjtu.edu.cn,[<DNS IN MX rdata: 10 mail.sdjtu.edu.cn.>],True,False,False
+383,Nanjing University of Chinese Medicine,njucm.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+384,Jiangxi University of Traditional Chinese Medicine,jxutcm.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+385,Southwest Forestry University,swfu.edu.cn,[<DNS IN MX rdata: 5 mx1.qiye.aliyun.com.>],False,False,False
+386,The National Academy of Chinese Theatre Arts,nacta.edu.cn,[<DNS IN MX rdata: 10 mx.nacta.edu.cn.>],True,False,False
+387,Xuzhou Medical University,xzhmu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+388,China West Normal University,cwnu.edu.cn,[<DNS IN MX rdata: 5 mxmail.icoremail.net.>],False,False,False
+389,Hanshan Normal University,hstc.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,True
+390,Tianjin Medical University,tmu.edu.cn,[<DNS IN MX rdata: 1 hzmx01.mxmail.netease.com.>],True,False,False
+391,Shandong Agricultural University,sdau.edu.cn,[<DNS IN MX rdata: 0 sdau2.sdau.edu.cn.>],True,False,False
+392,Jiangsu Ocean University,jou.edu.cn,[<DNS IN MX rdata: 5 mxbiz2.qq.com.>],True,False,False
+393,Quanzhou Normal University,qztc.edu.cn,[<DNS IN MX rdata: 10 mail.qztc.edu.cn.>],False,False,False
+394,Tianshui Normal University,tsnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+395,Liaoning University of Technology,lnut.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],True,False,True
+396,Shandong University of Traditional Chinese Medicine,sdutcm.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+397,Tianjin University of Finance and Economics,tjufe.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],True,False,True
+398,Guilin Medical University,glmc.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+399,Chongqing University of Education,cque.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+400,Beijing Technology and Business University,btbu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+401,Liaoning Shihua University,lnpu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+402,Dalian Medical University,dmu.edu.cn,[<DNS IN MX rdata: 10 mailgw.dmu.edu.cn.>],True,False,False
+403,Changshu Institute of Technology,cslg.edu.cn,[<DNS IN MX rdata: 20 mxbiz2.qq.com.>],True,False,False
+405,Yanbian University,ybu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+406,Yan'an University,yau.edu.cn,[<DNS IN MX rdata: 10 mx-edu1.icoremail.net.>],False,False,False
+407,Inner Mongolia Agricultural University,imau.edu.cn,[<DNS IN MX rdata: 11 mxbiz2.qq.com.>],False,False,False
+408,Henan University of Traditional Chinese Medicine,hactcm.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+409,Beijing Union University,buu.edu.cn,[<DNS IN MX rdata: 10 mail.buu.edu.cn.>],True,False,True
+410,Dalian Nationalities University,dlnu.edu.cn,[<DNS IN MX rdata: 9 dlnu.abroad.eyou.net.>],True,False,False
+411,Southwest University for Nationalities,swun.edu.cn,[<DNS IN MX rdata: 10 mail.swun.edu.cn.>],True,False,False
+412,Qiqihar University,qqhru.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+413,Hainan Normal University,hainnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+414,Baoji University of Arts and Sciences,bjwlxy.cn,[<DNS IN MX rdata: 5 mail.bjwlxy.cn.>],False,False,False
+415,North Sichuan Medical College,nsmc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+416,Chuzhou University,chzu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+417,North China University of Science and Technology,ncst.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+418,China Youth University for Political Sciences,zytx.org.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+420,Beijing Dance Academy,bda.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+421,Beijing Sport University,bsu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+422,Guangzhou Medical University,gzhmu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+423,Henan Institute of Science and Technology,hist.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+424,Shanghai Jianqiao University,gench.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],False,False,False
+425,Shenyang Jianzhu University,sjzu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,False
+426,Xinxiang Medical University,xxmu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+427,Huanghe Jiaotong University,zjtu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+428,Henan Institute of Engineering,haue.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+429,Henan University of Economics and Law,huel.edu.cn,[<DNS IN MX rdata: 10 mail.huel.edu.cn.>],True,False,False
+430,Nanyang Normal University,nynu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+431,Xi'an Polytechnic University,xpu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+432,North China University of Water Resources and Electric Power,ncwu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+433,Shanghai Conservatory of Music,shcmusic.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+434,Huangshan University,hsu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+435,Dalian Jiaotong University,djtu.edu.cn,[<DNS IN MX rdata: 10 mail.djtu.edu.cn.>],False,False,False
+436,Dalian Neusoft University of Information,neusoft.edu.cn,[<DNS IN MX rdata: 10 mta.neusoft.edu.cn.>],True,False,False
+437,Henan University of Technology,haut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+438,Shanxi University of Finance and Economics,sxufe.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+439,Heilongjiang University of Chinese Medicine,hljucm.net,[<DNS IN MX rdata: 1 mail.hljucm.net.>],True,False,False
+440,Ningde Normal University,ndnu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,False
+441,Jinggangshan University,jgsu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+442,Zhejiang Chinese Medical University,zcmu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+443,Binzhou Medical University,bzmc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+444,Xi'an Academy of Fine Arts,xafa.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+445,Changzhou Institute of Technology,czu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+446,Hunan City University,hncu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+447,Xi'an Eurasia University,eurasia.edu,[<DNS IN MX rdata: 5 mx1.icoremail.net.>],False,False,False
+448,Shaoguan University,sgu.edu.cn,[<DNS IN MX rdata: 10 mx1.sgu.edu.cn.>],False,False,False
+449,Hunan University of Science and Engineering,huse.edu.cn,[<DNS IN MX rdata: 10 mail.huse.edu.cn.>],False,False,False
+450,Tianjin University of Sport,tjus.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+451,Guangxi Teachers Education University,gxtc.edu.cn,[<DNS IN MX rdata: 105 mxbiz2.qq.com.>],False,False,False
+452,Nanchang Institute of Technology,nit.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+453,Beihua University,beihua.edu.cn,[<DNS IN MX rdata: 10 mxmail.icoremail.net.>],False,False,False
+454,Anyang Institute of Technology,ayit.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,False
+455,Jining University,jnxy.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+456,Chengde Medical University,cdmc.edu.cn,[<DNS IN MX rdata: 1 cdmc.abroad.eyou.net.>],False,False,False
+458,Chongqing University of Science and Technology,cqust.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+459,Huaibei Normal University,chnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+460,Guangxi University of Finance and Economics,gxufe.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+461,Xi'an University of Posts and Telecommunications,xiyou.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+462,Dalian Polytechnic University,dlpu.edu.cn,[<DNS IN MX rdata: 5 mx.dlpu.edu.cn.>],True,False,False
+463,Hunan University of Science and Technology,hnust.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+464,Wuhan Conservatory of Music,whcm.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+465,Sanya University,sanyau.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+466,Shandong University of Arts,sdca.edu.cn,[<DNS IN MX rdata: 10 mx-edu1.icoremail.net.>],False,False,False
+468,Northeast Petroleum University,nepu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+469,China Women's University,cwu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+470,Tangshan Normal University,tstc.edu.cn,[<DNS IN MX rdata: 5 mxw.263.net.>],True,False,False
+471,Shaanxi University of Technology,snut.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+472,Shangqiu Normal University,sqnu.edu.cn,[<DNS IN MX rdata: 10 mail.sqnu.edu.cn.>],True,False,False
+473,Hechi University,hcnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+474,Zhejiang Yuexiu University of Foreign Languages,zyufl.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+475,Huanghuai University,huanghuai.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+476,Guangdong Polytechnic Normal University,gpnu.edu.cn,[<DNS IN MX rdata: 10 mxhm.qiye.163.com.>],True,False,False
+477,China University of Labor Relations,culr.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+478,East China Jiaotong University,ecjtu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,True
+479,Huzhou University,zjhu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+480,Harbin University of Commerce,hrbcu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+481,Longyan University,lyun.edu.cn,[<DNS IN MX rdata: 10 mail.lyun.edu.cn.>],False,False,False
+482,Anhui Science and Technology University,ahstu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+483,University of International Relations,uir.cn,[<DNS IN MX rdata: 15 mxhm.qiye.163.com.>],True,False,True
+484,Shandong Yingcai University,sdycu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+485,Shenyang Sport University,syty.edu.cn,[<DNS IN MX rdata: 5 mx.c3.icoremail.net.>],True,False,False
+486,Taiyuan Institute of Technology,tit.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+487,Huanghe Science and Technology College,hhstu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+488,Tibet University,utibet.edu.cn,[<DNS IN MX rdata: 4 mx-utibet-edu-cn.icoremail.net.>],True,False,False
+489,Xinjiang Medical University,xjmu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+490,Guangdong University of Finance,gduf.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+491,Hebei Normal University of Science and Technology,hevttc.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+492,Qingdao University of Technology,qut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+493,Guangxi Normal University for Nationalities,gxnun.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+495,Tangshan College,tsc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+496,Changzhi Medical College,czmc.com,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+497,Qingdao Huanghai University,qdhhc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+498,Qinghai University for Nationalities,qhmu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+499,China Conservatory of Music,ccmusic.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+500,Jiangsu Teachers University of Technology,jstu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+501,Liaocheng University,lcu.edu.cn,[<DNS IN MX rdata: 10 mail.lcu.edu.cn.>],True,False,False
+502,Hebei North University,hebeinu.edu.cn,[<DNS IN MX rdata: 10 mail.hebeinu.edu.cn.>],False,False,False
+504,Zhejiang University of Water Resources and Electric Power,zjweu.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],True,False,True
+506,Hubei Engineering University,hbeu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+508,Communication University of Zhejiang,cuz.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],False,False,False
+509,Bengbu Medical College,bbmc.edu.cn,[<DNS IN MX rdata: 15 hzmx02.mxmail.netease.com.>],True,False,True
+510,Guangxi Science and Technology Normal University,gxstnu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+511,Huizhou University,hzu.edu.cn,[<DNS IN MX rdata: 10 mx2.icoremail.net.>],False,False,False
+512,Huaihua University,hhtc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+513,Xi'an Physical Education University,xaipe.edu.cn,[<DNS IN MX rdata: 5 mail.xaipe.edu.cn.>],False,False,True
+515,Huainan Normal University,hnnu.edu.cn,[<DNS IN MX rdata: 10 mail.hnnu.edu.cn.>],False,False,False
+516,Beijing Wuzi University,bwu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+517,Mianyang Normal University,mnu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+518,Heilongjiang University of Science and Technology,usth.edu.cn,[<DNS IN MX rdata: 5 mx2.usth.edu.cn.>],True,False,False
+519,Yancheng Institute of Technology,ycit.cn,[<DNS IN MX rdata: 1 mail.ycit.cn.>],False,False,False
+520,Jinzhou Medical University,jzmu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+521,Shaanxi Institute of International Trade and Commerce,csiic.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+522,Jilin Animation Institute,jlai.edu.cn,[<DNS IN MX rdata: 10 mail.jlai.edu.cn.>],True,False,False
+523,Anyang Normal University,aynu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+524,Changsha University,ccsu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+525,Daqing Normal University,dqsy.net,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+526,Yancheng Teachers University,yctc.edu.cn,[<DNS IN MX rdata: 1 mail.yctc.edu.cn.>],False,False,False
+527,Shanghai Institute of Visual Art,siva.edu.cn,[<DNS IN MX rdata: 10 mail.siva.edu.cn.>],False,False,False
+528,Shandong First Medical University,sdfmu.edu.cn,[<DNS IN MX rdata: 1 mail.sdfmu.edu.cn.>],False,False,False
+529,Shanghai Institute of Technology,sit.edu.cn,[<DNS IN MX rdata: 0 email.sit.edu.cn.>],True,False,False
+530,Gansu University of Chinese Medicine,gszy.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+531,Zunyi Medical University,zmu.edu.cn,[<DNS IN MX rdata: 5 zmc.abroad.eyou.net.>],False,False,False
+532,Dezhou University,dzu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+533,Northwest University of Politics and Law,nwupl.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+534,Beibu Gulf University,bbgu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+535,Ningxia Medical University,nxmu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+536,Beijing Information Science and Technology University,bistu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+537,Tianjin Chengjian University,tcu.edu.cn,[<DNS IN MX rdata: 5 mail.tcu.edu.cn.>],False,False,False
+538,Taiyuan Normal University,tynu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+539,Zhejiang International Studies University,zisu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+540,Nanjing Sport Institute,nipes.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+542,Shenyang University of Technology,sut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+543,Shenyang Medical College,symc.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],False,False,False
+544,Inner Mongolia University of Finance and Economics,imufe.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+545,Liaoning University of Traditional Chinese Medicine,lnutcm.edu.cn,[<DNS IN MX rdata: 1 mail.lnutcm.edu.cn.>],True,False,True
+546,Hanjiang Normal University,hjnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+547,Anhui Wonder University of Information Engineering,wenda.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+549,Hubei Polytechnic University,hbpu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+550,Shandong Sport University,sdpei.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+551,Guangdong Pharmaceutical University,gdpu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+553,Zhejiang Ocean University,zjou.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+554,Hubei University of Chinese Medicine,hbtcm.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+555,Hunan Institute of Engineering,hnie.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+556,Ningbo University of Finance and Economics,nbufe.edu.cn,[<DNS IN MX rdata: 10 mx2.qiye.aliyun.com.>],True,False,False
+557,Guizhou Medical University,gmc.edu.cn,[<DNS IN MX rdata: 10 gemail-gate.gmc.edu.cn.>],True,True,True
+559,Xijing University,xijing.edu.cn,[<DNS IN MX rdata: 10 mail.xijing.edu.cn.>],True,False,False
+560,Kashi University,ksu.edu.cn,[<DNS IN MX rdata: 10 mail.ksu.edu.cn.>],False,False,False
+561,Xiangnan University,xnu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+563,Neijiang Normal University,njtc.edu.cn,[<DNS IN MX rdata: 5 mx-edu.icoremail.net.>],True,False,False
+564,Xinyang Normal University,xynu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+566,Shandong University of Art and Design,sdada.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+567,Jilin University of Finance and Economics,jlufe.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+568,Baoshan University,bsnc.cn,[<DNS IN MX rdata: 20 mx.ym.163.com.>],False,False,False
+569,North China Institute of Aerospace Engineering,nciae.edu.cn,[<DNS IN MX rdata: 10 mx-edu.icoremail.net.>],True,False,False
+570,Guizhou Education University,gznc.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,False
+571,Zhengzhou Institute of Finance and Economics,zzife.edu.cn,[<DNS IN MX rdata: 10 mail.zzife.edu.cn.>],True,False,False
+572,Wuhan Sports University,whsu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,False
+573,Minnan Normal University,mnnu.edu.cn,[<DNS IN MX rdata: 10 mx2.c5.icoremail.net.>],True,False,False
+574,Wuchang University of Technology,wut.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+575,Fujian University of Traditional Chinese Medicine,fjtcm.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,False
+576,Changchun Normal University,ccsfu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+577,Hexi University,hxu.edu.cn,[<DNS IN MX rdata: 0 mail.hxu.edu.cn.>],True,False,False
+578,Zhejiang Wanli University,zwu.edu.cn,[<DNS IN MX rdata: 10 email.zwu.edu.cn.>],True,False,False
+579,Jilin Normal University,jlnu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+580,Hainan Tropical Ocean University,hntou.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+581,East China University of Technology,ecit.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+582,Mudanjiang Normal University,mdjnu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+583,Heze University,hezeu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+585,Nanchang Institute of Technology,nut.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+586,Zunyi Normal College,zync.edu.cn,[<DNS IN MX rdata: 10 mx.zync.edu.cn.>],False,False,False
+587,Xiamen Huaxia University,hxxy.edu.cn,[<DNS IN MX rdata: 10 mail.hxxy.edu.cn.>],True,False,False
+588,Hefei Normal University,hfnu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+589,Guangxi University of Science and Technology,gxust.edu.cn,[<DNS IN MX rdata: 10 mxhm.qiye.163.com.>],True,False,True
+590,Qingdao Binhai University,qdbhu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+591,Hebei GEO University,hgu.edu.cn,[<DNS IN MX rdata: 10 mail.hgu.edu.cn.>],False,False,False
+592,Shaanxi University of Chinese Medicine,sntcm.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+593,Xinyu University,xyc.edu.cn,[<DNS IN MX rdata: 10 mail.xyc.edu.cn.>],True,False,False
+594,Jilin Jianzhu University,jlju.edu.cn,[<DNS IN MX rdata: 15 mx3.qiye.aliyun.com.>],True,False,False
+595,West Anhui University,wxc.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+596,Southwest Medical University,swmu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+597,Yinchuan Energy Institute,ycu.com.cn,[<DNS IN MX rdata: 10 mxw.mxhichina.com.>],False,False,False
+599,LuXun Academy of Fine Arts,lumei.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+600,Shandong Technology and Business University,sdtbu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+601,Tarim University,taru.edu.cn,[<DNS IN MX rdata: 8 mxmail.icoremail.net.>],True,False,False
+602,"Zhengzhou Shengda University of Economics, Business and Management",shengda.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+603,Haikou College of Economics,hkc.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+604,Hunan Women's University,hnwu.edu.cn,[<DNS IN MX rdata: 5 mxw.263.net.>],True,False,False
+605,Yibin University,yibinu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+606,Hebei Institute of Physical Education,hepec.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+607,Xichang College,xcc.edu.cn,[<DNS IN MX rdata: 10 mx-edu.icoremail.net.>],False,False,False
+608,Yunnan Arts University,ynart.edu.cn,[<DNS IN MX rdata: 10 mail.ynart.edu.cn.>],False,False,False
+609,Wuxi Taihu University,wxu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+610,Fuyang Normal University,fynu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+611,Xinjiang Agricultural University,xjau.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+612,Guangdong University of Petrochemical Technology,gdupt.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+613,Hunan University of Commerce,hutb.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+614,Beijing University of Agriculture,bua.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+615,Jiangxi University of Technology,jxut.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,True
+616,Ludong University,ldu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+617,Chengdu Medical College,cmc.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+618,Anqing Normal University,aqnu.edu.cn,[<DNS IN MX rdata: 10 mail.aqnu.edu.cn.>],False,False,False
+620,Civil Aviation Flight University of China,cafuc.edu.cn,[<DNS IN MX rdata: 2 mail.cafuc.edu.cn.>],True,False,False
+621,Chuxiong Normal University,cxtc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+622,Tianjin Agricultural University,tjau.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,False
+623,Ningxia Institute of Science and Technology,nxist.com,[<DNS IN MX rdata: 0 nxist.com.>],False,False,False
+624,Xi'an University of Finance and Economics,xaufe.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],True,False,True
+625,Xinjiang University of Finance and Economics,xjufe.edu.cn,[<DNS IN MX rdata: 0 mxmail.icoremail.net.>],True,False,False
+626,Guangxi University of Chinese Medicine,gxtcmu.edu.cn,[<DNS IN MX rdata: 1 mx-gxtcmu-edu-cn.icoremail.net.>],True,False,False
+627,Yunnan University of Traditional Chinese Medicine,ynutcm.edu.cn,[<DNS IN MX rdata: 10 mail.ynutcm.edu.cn.>],False,False,False
+628,Chongqing Three Gorges University,sanxiau.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+629,Shanghai Business School,sbs.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,True
+630,Xizang Minzu University,xzmu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+631,Baise University,bsuc.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+634,Changchun University of Chinese Medicine,ccucm.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+635,Jilin College of the Arts,jlart.edu.cn,[<DNS IN MX rdata: 1 mail.jlart.edu.cn.>],True,False,False
+636,Wuzhou University,gxuwz.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+637,Beijing Institute of Fashion Technology,bift.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+638,Guangdong Baiyun University,baiyunu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,False
+639,Zhaoqing University,zqu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+640,Hunan First Normal University,hnfnu.edu.cn,[<DNS IN MX rdata: 11 mail.stu.hnfnu.edu.cn.>],True,False,False
+641,Chengdu Sport University,cdsu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],False,False,True
+642,Yunnan University of Finance and Economics,ynufe.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+643,Hebei Finance University,hbfu.edu.cn,[<DNS IN MX rdata: 10 mail.hbfu.edu.cn.>],False,False,False
+644,Fujian Business University,fjbu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+645,Xingtai University,xttc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+646,Jiangsu University of Technology,jsut.edu.cn,[<DNS IN MX rdata: 10 mxbiz1.qq.com.>],True,False,False
+647,Guilin University of Aerospace Technology,guat.edu.cn,[<DNS IN MX rdata: 10 mxhm.qiye.163.com.>],False,False,True
+648,Hunan University of Arts and Science,huas.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+649,Tianjin Conservatory of Music,tjcm.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+650,Hunan International Economics University,hieu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+651,Ankang University,aku.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+652,Fujian Jiangxia University,fjjxu.edu.cn,[<DNS IN MX rdata: 10 smtp1.fjjxu.edu.cn.>],True,False,False
+653,Beijing Electronic Science and Technology Institute,besti.edu.cn,[<DNS IN MX rdata: 1 mail.besti.edu.cn.>],True,False,False
+654,Guangzhou Sport University,gzsport.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+655,Shenyang University,syu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,True
+656,Hubei University for Nationalities,hbmzu.edu.cn,[<DNS IN MX rdata: 10 mxhm.qiye.163.com.>],True,False,True
+657,Taishan University,tsu.edu.cn,[<DNS IN MX rdata: 10 mx-edu1.icoremail.net.>],True,False,False
+658,Hunan University of Chinese Medicine,hnucm.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+659,Chengdu Technological University,cdtu.edu.cn,[<DNS IN MX rdata: 10 211.83.32.89.>],False,False,False
+660,Anhui Sanlian University,slu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+661,Hainan Medical University,hainmc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+662,Weifang Medical University,wfmc.edu.cn,[<DNS IN MX rdata: 10 mxmail.icoremail.net.>],False,False,False
+663,Gannan Normal University,gnnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+664,Tonghua Normal University,thnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+665,Hubei University of Arts and Science,hbuas.edu.cn,[<DNS IN MX rdata: 5 mail.hbuas.edu.cn.>],True,False,False
+667,Guangdong University of Education,gdei.edu.cn,[<DNS IN MX rdata: 10 pop.gdei.edu.cn.>],False,False,False
+668,Yantai Nanshan University,nanshan.edu.cn,[<DNS IN MX rdata: 10 mail.nanshan.edu.cn.>],False,False,False
+669,Hengyang Normal University,hynu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+671,Wenhua University,hustwenhua.net,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+672,Inner Mongolia University for the Nationalities,imun.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+673,Gansu University of Political Science and Law,gsupl.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+674,Guiyang University,gyu.cn,[<DNS IN MX rdata: 10 mail.gyu.cn.>],False,False,False
+676,Taizhou University,tzu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+677,Xi'an Fanyi University,xafy.edu.cn,[<DNS IN MX rdata: 10 mail.xafy.edu.cn.>],False,False,False
+678,Shandong Xiehe University,sdxiehe.edu.cn,[<DNS IN MX rdata: 10 222.194.130.203.>],False,False,False
+679,Shenyang University of Chemical Technology,syuct.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+680,Xi'an Technological University,xatu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+681,Xi'an Aeronautical University,xaau.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,False
+682,Qilu Normal University,qlnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+683,Yulin Normal University,ylu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+685,Luoyang Normal University,lynu.edu.cn,[<DNS IN MX rdata: 10 mail.lynu.edu.cn.>],False,False,False
+686,Capital University of Physical Education and Sports,cupes.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+687,Changchun Institute of Technology,ccit.edu.cn,[<DNS IN MX rdata: 15 hzmx02.mxmail.netease.com.>],True,False,True
+688,Wuyi University,wuyiu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+689,Wenzhou Business College,wzbc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+690,Jilin Engineering Normal University,jlenu.edu.cn,[<DNS IN MX rdata: 3 mx2-edu1.icoremail.net.>],True,False,False
+691,Sanda University,sandau.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+692,Heilongjiang Institute of Technology,hljit.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+693,Shanxi University of Traditional Chinese Medicine,sxtcm.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+694,Hebei Institute of Communication,hebic.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+696,Tianjin Tianshi College,tianshi.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+697,Binzhou University,bzu.edu.cn,[<DNS IN MX rdata: 10 mail.bzu.edu.cn.>],False,False,False
+698,Suzhou University,ahszu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],False,False,True
+699,Jiangxi Science and Technology Normal University,jxstnu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,True
+700,Inner Mongolia Medical University,immu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+701,Beihai College of Art and Design,sszss.com,[<DNS IN MX rdata: 10 bf-mail-g1.xinnetdns.com.>],False,False,False
+702,Quanzhou Institute of Information Engineering,qziedu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+703,The Central Academy of Drama,zhongxi.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],False,False,False
+704,Baoding University,bdu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+705,Guangxi Arts University,gxau.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+706,Guangxi University of Foreign Languages,gxufl.com,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,False
+707,Panzhihua University,pzhu.cn,[<DNS IN MX rdata: 3 gw.pzhu.cn.>],True,False,False
+708,Zhoukou Normal University,zknu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+709,Zhengzhou Institute of Technology,zzut.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+710,Yang-En University,yeu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+711,Jilin International Studies University,jisu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+712,Tianjin Zhongde University of Applied Sciences,tsguas.edu.cn,[<DNS IN MX rdata: 5 mx-edu1.icoremail.net.>],False,False,False
+713,Zaozhuang University,uzz.edu.cn,[<DNS IN MX rdata: 10 mail.uzz.edu.cn.>],False,False,False
+714,Zhengzhou Technology and Business University,ztbu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+715,North China Institute of Science and Technology,ncist.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+716,Tongling University,tlu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+717,Jilin Institute of Chemical Technology,jlict.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+718,Hebei University of Chinese Medicine,hebcm.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+719,Handan College,hdc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+720,Weinan Normal University,wnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+721,Xi'an Conservatory of Music,xacom.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+722,Yichun University,jxycu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+724,Xi'an Shiyou University,xapi.edu.cn,[<DNS IN MX rdata: 10 mail.xapi.edu.cn.>],True,False,False
+725,Bengbu University,bbc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+727,"Neusoft Institute, Guangdong",nuit.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+728,University of Science and Technology Liaoning,ustl.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+729,Sanjiang University,sju.edu.cn,[<DNS IN MX rdata: 0 sju-edu-cn.mail.protection.partner.outlook.cn.>],True,False,False
+730,Yili Normal University,ylnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+732,Chongqing University of Arts and Sciences,cqwu.net,[<DNS IN MX rdata: 0 mail.cqwu.net.>],True,False,False
+733,Beijing Geely University,bgu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+734,Shandong University of Political Science and Law,sdupsl.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+735,Harbin University,hrbu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+736,Hebei University of Architecture,hebiace.edu.cn,[<DNS IN MX rdata: 10 mail.hebiace.edu.cn.>],False,False,False
+737,Guiyang University Traditional Chinese Medicine,gzy.edu.cn,[<DNS IN MX rdata: 10 mx1.icoremail.net.>],False,False,False
+738,Chengdu Normal University,cdnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+739,Wuhan College of Media and Communications,whmc.edu.cn,[<DNS IN MX rdata: 5 mail.whmc.edu.cn.>],False,False,False
+740,Heilongjiang Bayi Agricultural University,byau.edu.cn,[<DNS IN MX rdata: 10 mail.byau.edu.cn.>],False,False,False
+741,Hunan Institute of Technology,hnit.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+742,Kunming Medical University,kmmc.cn,[<DNS IN MX rdata: 5 hzmx02.mxmail.netease.com.>],True,False,False
+743,Guangdong Peizheng College,peizheng.edu.cn,[<DNS IN MX rdata: 10 mx.peizheng.edu.cn.>],True,False,False
+744,Chaohu University,chu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+745,Lishui University,lsu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+746,Shanghai University of Medicine and Health Sciences,sumhs.edu.cn,[<DNS IN MX rdata: 0 mail.sumhs.edu.cn.>],True,False,False
+748,Pingdingshan University,pdsu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+749,Jiangsu Second Normal University,jssnu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+750,Shanxi Datong University,sxdtdx.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+752,Yangtze Normal University,yznu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+753,Zhengzhou Normal University,zznu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+754,Hetao College,hetaodaxue.com,[<DNS IN MX rdata: 10 hetaodaxue.com.>],False,False,False
+755,Guizhou Minzu University,gzmu.edu.cn,[<DNS IN MX rdata: 2 gzmu.edu.cn.>],False,False,False
+756,Inner Mongolia Arts University,imac.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+757,Lanzhou City University,lzcu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+758,Liaoning Institute of Science and Technology,lnist.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+760,Xi'an Medical University,xiyi.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+762,"Hunan University of Humanities, Science and Technology",huhst.edu.cn,[<DNS IN MX rdata: 10 mail.huhst.edu.cn.>],False,False,False
+765,Qiqihar Medical University,qmu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+766,Harbin Institute of Physical Education,hrbipe.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+768,Xinxiang University,xxu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+769,Minnan University of Science and Technology,mnust.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+770,Hebei Polytechnic Institute,hbfsh.com,[<DNS IN MX rdata: 0 mxdomain.qq.com.>],False,False,False
+773,Guangzhou College of Commerce,gcc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+776,Xinyang Agriculture and Forestry University,xyafu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+777,Sichuan University of Media and Communications,scmc.edu.cn,[<DNS IN MX rdata: 10 mx.scmc.edu.cn.>],False,False,False
+778,Qilu Medical University,qlmu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+779,Henan Finance University,hafu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+780,Zhengzhou University of Industrial Technology,zzuit.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+781,Jilin Medical University,jlmu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+783,Zhejiang Conservatory of Music,zjcm.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+784,Weifang University of Science and Technology,wfust.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+785,Kunming University,kmu.edu.cn,[<DNS IN MX rdata: 10 mxmail.icoremail.net.>],True,False,False
+787,Sichuan Tourism University,sctu.edu.cn,[<DNS IN MX rdata: 10 mail.sctu.edu.cn.>],True,False,False
+788,Eastern Liaoning University,elnu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+790,Harbin Guangxia University,gsxy.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+791,Hubei Business College,hbc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+792,Henan University of Animal Husbandry and Economy,hnuahe.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,False
+793,Xiamen Institude of Technology,xit.edu.cn,[<DNS IN MX rdata: 1 mail.xit.edu.cn.>],True,False,False
+794,Yanjing Institute of Technology,yit.edu.cn,[<DNS IN MX rdata: 10 mx2.qiye.aliyun.com.>],True,False,False
+795,Liaoning University of International Business and Economics,luibe.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+796,Shandong Management University,sdmu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+797,Cangzhou Normal University,caztc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+798,Shangqiu Institute of Technology,sqgxy.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+801,Changchun Guanghua University,ghu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+802,Moutai Institute,mtxy.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+803,Wuchang Institute of Technology,wuit.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+804,Wuhan Technology and Business University,wtbu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+807,Shandong Women's University,sdwu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+809,East University of Heilongjiang,hljeu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+810,Wenshan University,wsu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+811,Yulin University,yulinu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+812,Shandong Agriculture and Engineering University,sdaeu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+813,Hebei University of Environmental Engineering,hebuee.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+814,Wuhan Business University,wbu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+816,Nanchang Institute of Science and Technology,ncpu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+817,Wuhan Donghu University,wdu.edu.cn,[<DNS IN MX rdata: 5 mxhm.qiye.163.com.>],True,False,True
+818,Sichuan University of Arts and Science,sasu.edu.cn,[<DNS IN MX rdata: 10 mail.sasu.edu.cn.>],False,False,False
+820,Hebei Normal University for Nationalities,hbun.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+822,Zhengzhou University of Science and Technology,zit.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+823,Nanchang Normal University,ncnu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+824,Hangzhou Medical College,hmc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+825,Henan Institute of Technology,hait.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+826,Shanxi Technology and Business College,sxtbu.net,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+827,Chizhou University,czu.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+828,Hunan University of Finance and Economics,hufe.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+829,Liaoning Communication University,lncu.cn,[<DNS IN MX rdata: 50 mxf1.global-mail.cn.>],True,False,False
+830,"Chongqing College of Humanities, Science and Technology",cqrk.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+831,Shenzhen MSU-BIT University,smbu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+833,Chengdu College of Arts and Sciences,cdcas.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+834,Shandong Huayu University of Technology,sdhyxy.com,[<DNS IN MX rdata: 10 mail.sdhyxy.com.>],False,False,False
+835,SanQuan Medical College,sqmc.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,False
+836,Heihe University,hhhxy.cn,[<DNS IN MX rdata: 10 mx.sina.net.>],True,False,False
+837,Gannan Medical University,gmu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+838,Xingyi Normal University for Nationalities,xynun.edu.cn,[<DNS IN MX rdata: 30 mx.xynun.edu.cn.>],True,False,True
+839,Guizhou Institute of Technology,git.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+840,Liaoning Finance and Trade College,lncmxy.com,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+842,Shaanxi Fashion Engineering University,sxfu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],False,False,False
+843,Shijiazhuang University,sjzc.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+844,Aba Teachers University,abtu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+845,Wuchang Shouyi University,wsyu.edu.cn,[<DNS IN MX rdata: 0 mail.wsyu.edu.cn.>],True,False,False
+847,Lanzhou University of Arts and Science,luas.edu.cn,[<DNS IN MX rdata: 10 mail.luas.edu.cn.>],False,False,False
+848,Chongqing Institute of Engineering,cqie.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+850,Anhui Institute of Information Technology,aiit.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+852,Chengdu Neusoft University,nsu.edu.cn,[<DNS IN MX rdata: 10 gate1.nsu.edu.cn.>],True,False,False
+854,Harbin Conservatory of Music,hrbcm.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+855,Shenyang Urban Construction University,syucu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+856,Changzhi University,czc.edu.cn,[<DNS IN MX rdata: 10 mx1.icoremail.net.>],False,False,False
+857,Anshun University,asu.edu.cn,[<DNS IN MX rdata: 10 mail.asu.edu.cn.>],False,False,False
+859,Tongren University,gztrc.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],False,False,False
+860,Qujing Normal University,qjnu.edu.cn,[<DNS IN MX rdata: 1 qjnu-edu-cn.mail.protection.partner.outlook.cn.>],True,False,False
+861,Heilongjiang International University,hiu.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+862,Inner Mongolia Nationality College,imnc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+863,Wuhan University of Engineering Science,wuhues.com,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+864,Qilu Institute of Technology,qlit.edu.cn,[<DNS IN MX rdata: 10 mail.qlit.edu.cn.>],True,False,False
+867,Hankou University,hkxy.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
+868,Yunnan Technology and Business University,yngsxy.net,[<DNS IN MX rdata: 10 mail.yngsxy.net.>],True,False,False
+869,Kaili University,kluniv.edu.cn,[<DNS IN MX rdata: 10 mail.kluniv.edu.cn.>],True,False,False
+870,Wuhan Institute of Design and Sciences,wids.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+872,Zhaotong University,ztu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+873,NanTong Institute of Technology,ntit.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+874,Heilongjiang University of Finance and Economics,hfu.edu.cn,[<DNS IN MX rdata: 20 hfu-edu-cn.mail.protection.outlook.com.>],True,False,True
+875,Gansu Medical College,gsmc.edu.cn,[<DNS IN MX rdata: 10 mail.plmc.edu.cn.>],False,False,False
+876,Jilin Agricultural Science and Technology College,jlnku.edu.cn,[<DNS IN MX rdata: 5 mail.jlnku.edu.cn.>],False,False,False
+877,Jiangxi Institute of Fashion Technology,jift.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+878,Harbin Institute of Petroleum,hip.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+880,Dalian Art College,dac.edu.cn,[<DNS IN MX rdata: 5 mx-edu1.icoremail.net.>],True,False,False
+881,Shangqiu University,sqxy.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],False,False,False
+882,Anyang University,ayxy.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+884,Xi'an Traffic Engineering Institute,xjy.edu.cn,[<DNS IN MX rdata: 5 mxn.mxhichina.com.>],True,False,False
+885,Wuhan Huaxia University of Technology,hxut.edu.cn,[<DNS IN MX rdata: 10 mxbiz1.qq.com.>],True,False,False
+886,Liaoning Institute of Science and Engineering,lise.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+888,Youjiang Medical University for Nationalities,ymun.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+889,Guizhou University of Engineering Science,gues.edu.cn,[<DNS IN MX rdata: 10 mxbiz1.qq.com.>],True,False,False
+890,Harbin Finance University,hrbfu.edu.cn,[<DNS IN MX rdata: 5 mx-hrbfu-edu-cn.icoremail.net.>],True,False,False
+891,Guangdong University of Technology,gdlgxy.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+892,Bozhou University,bzuu.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],False,False,True
+893,Hezhou University,hzxy.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+894,Pingxiang University,pxc.jx.cn,[<DNS IN MX rdata: 1 hzmx01.mxmail.netease.com.>],True,False,True
+896,Wuhan College,whxy.net,[<DNS IN MX rdata: 0 whxy-net.mail.protection.outlook.com.>],True,False,False
+897,Qingdao Institute of Technology,qit.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,False
+898,Qingdao Hengxing University of Science and Technology,hx.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],True,False,True
+899,Yunnan College of Business Management,ynjgy.com,[<DNS IN MX rdata: 5 mx.sxy.top.>],True,False,False
+901,Fuzhou Institute of Technology,fit.edu.cn,[<DNS IN MX rdata: 10 mail.fit.edu.cn.>],True,False,False
+902,Harbin Far East Institute of Technology,fe-edu.com.cn,[<DNS IN MX rdata: 10 mx.ym.163.com.>],True,False,False
+905,Xinzhou Teachers University,xztu.edu.cn,[<DNS IN MX rdata: 5 mta1.mail.139.com.>],False,False,False
+906,Ordos Institute of Technology,oit.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,False
+909,Dalian University of Finance and Economics,dlufe.edu.cn,[<DNS IN MX rdata: 1 mail.dlufe.edu.cn.>],True,True,False
+911,Xinjiang Institute of Engineering,xjie.edu.cn,[<DNS IN MX rdata: 10 mail.xjie.edu.cn.>],False,False,False
+912,Communication University of Shanxi,cusx.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+913,Shenyang Institute of Technology,situ.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+915,Shanghai Xingwei College,xingwei.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+916,Guangdong University of Science and Technology,gdust.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],False,False,False
+919,Yingkou Institute of Technology,yku.edu.cn,[<DNS IN MX rdata: 5 hzmx01.mxmail.netease.com.>],True,False,True
+920,Changchun University of Finance and Economics,ccufe.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,False
+922,Xinyang University,xyu.edu.cn,[<DNS IN MX rdata: 10 mxdomain.qq.com.>],False,False,False
+923,Jingdezhen University,jdzu.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,True
+925,Harbin Cambridge University,hcc.edu.cn,[<DNS IN MX rdata: 10 mxbiz2.qq.com.>],True,False,False
+927,Harbin Huade University,hhdu.edu.cn,[<DNS IN MX rdata: 10 mail.hhdu.edu.cn.>],False,False,False
+929,Heilongjiang College of Business and Technology,hibu.edu.cn,[<DNS IN MX rdata: 0 hibu-edu-cn.mail.protection.outlook.com.>],True,False,False
+930,Dalian University of Science and Technology,dlust.edu.cn,[<DNS IN MX rdata: 10 hzmx02.mxmail.netease.com.>],True,False,True
+934,West Yunnan University of Applied Sciences,wyuas.edu.cn,[<DNS IN MX rdata: 10 mail.wyuas.edu.cn.>],True,False,False
+937,Shenyang Institute of Science and Technology,syist.edu.cn,[<DNS IN MX rdata: 5 mxbiz1.qq.com.>],False,False,False
