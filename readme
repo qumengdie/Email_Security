@@ -1,0 +1,3 @@
+1. Using web_crawler to get the university-domain list ordered by ranking.
+2. Using check_domain to resolve the DNS record to check the SPF, DKIM and DMARC records of those domains.
+3. Using data_analysis to do data analysis and visualization.
